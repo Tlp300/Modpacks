@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "N",
+    "N",
+    "N"
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:chain"
+  }
+}

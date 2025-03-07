@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:soul_torch"
+    },
+    "X": {
+      "item": "minecraft:iron_nugget"
+    },
+    "C": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    " C ",
+    "X#X",
+    " X "
+  ],
+  "result": {
+    "item": "minecraft:soul_lantern"
+  }
+}

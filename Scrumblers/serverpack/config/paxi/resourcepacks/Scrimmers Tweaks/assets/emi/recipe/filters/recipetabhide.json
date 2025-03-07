@@ -1,0 +1,16 @@
+{
+  "filters": [
+    {
+      "category": "lychee:block_interacting/minecraft/default"
+    },
+	{
+      "category": "alexscaves:nuclear_furnace"
+    },
+	{
+      "category": "functionalstorage:dissolution"
+    },
+	{
+      "id": "emi:/crafting/dying/quark/backpack"
+    }
+  ]
+}
