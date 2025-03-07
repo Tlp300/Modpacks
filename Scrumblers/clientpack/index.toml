@@ -1468,6 +1468,11 @@ hash = "cbfa4c41dfa6983c02eec13087e0e0feb8ec7024ee5e6468fce2fbab20a2302c"
 metafile = true
 
 [[files]]
+file = "mods/extrasounds-forge.pw.toml"
+hash = "cae441cbe76916f73967afd909069cfd16629ba91f9f0018f4e170961ca6dba1"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-quark.pw.toml"
 hash = "45859b0355b5bbe6eb13a6dede36c59d83d58638fcedd34052286b09cc6df4be"
 metafile = true
@@ -1648,11 +1653,6 @@ hash = "55875730ed8ce244b56bf08d818a4ffb3c347a5280a62ba636b82b6aee125e3d"
 metafile = true
 
 [[files]]
-file = "mods/mru.pw.toml"
-hash = "f5e19eff418ff12946e7cd4f10e16508ba7261c9cd9685e3d87016fa21c127d1"
-metafile = true
-
-[[files]]
 file = "mods/mutil.pw.toml"
 hash = "4e0ebdb97b93b545a2ab458e7aea179a32564234a7828fe4ecbee415d68916a2"
 metafile = true
@@ -1785,11 +1785,6 @@ metafile = true
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "c4ca979f49cb00f358c70947b0592db95769f6086c11226358adca645567741b"
-metafile = true
-
-[[files]]
-file = "mods/sound.pw.toml"
-hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
 metafile = true
 
 [[files]]
