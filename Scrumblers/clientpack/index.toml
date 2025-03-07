@@ -318,7 +318,7 @@ hash = "5bf38784a30090fbe2d5bc1a65aa5bd5744b5c9ed8a3abdce37341e5637cb570"
 
 [[files]]
 file = "config/emi.css"
-hash = "29df9505a49c36aa3f3355e25f4619254bc643a760226728ee268d4e8f69151d"
+hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 
 [[files]]
 file = "config/endergetic-common.toml"
