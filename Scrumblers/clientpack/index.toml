@@ -1468,6 +1468,11 @@ hash = "cbfa4c41dfa6983c02eec13087e0e0feb8ec7024ee5e6468fce2fbab20a2302c"
 metafile = true
 
 [[files]]
+file = "mods/extrasounds-forge.pw.toml"
+hash = "cae441cbe76916f73967afd909069cfd16629ba91f9f0018f4e170961ca6dba1"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-quark.pw.toml"
 hash = "45859b0355b5bbe6eb13a6dede36c59d83d58638fcedd34052286b09cc6df4be"
 metafile = true
@@ -1916,7 +1921,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "d002f4f494ecbdd5a622ff1780f63167fffbfaa8e7276a495bba0acfc55e4651"
