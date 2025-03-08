@@ -558,7 +558,7 @@ hash = "8c353ff01ddc44ad91e01ef60ec8ab077e21949e209a867416da06d7559362f2"
 
 [[files]]
 file = "config/naturalist.toml"
-hash = "81f36bfb34b8064a0678c72bb747fded626c2fbf5e735ec2058cece5b242aac7"
+hash = "cf0cb0baf08b784044737cb3fa72378dcb93d591357718cfbfa9b14d91bad622"
 
 [[files]]
 file = "config/neapolitan-common.toml"

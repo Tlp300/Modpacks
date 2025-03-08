@@ -46,13 +46,13 @@
 	butterflySpawnWeight = 20
 	#Duck Spawn Weight
 	#Range: 0 ~ 1000
-	duckSpawnWeight = 15
+	duckSpawnWeight = 0
 	#Bear Spawn Weight
 	#Range: 0 ~ 1000
 	bearSpawnWeight = 8
 	#Deer Spawn Weight
 	#Range: 0 ~ 1000
-	deerSpawnWeight = 8
+	deerSpawnWeight = 0
 	#Rhino Spawn Weight
 	#Range: 0 ~ 1000
 	rhinoSpawnWeight = 15
