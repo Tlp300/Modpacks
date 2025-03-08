@@ -1174,7 +1174,7 @@ hash = "170c361c70900feb20914fd2360a01c676915dcdb32a9c00ed2c77922092ee36"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shapeless.js"
-hash = "f99e5023a5af6a0ea73b57a46946fbdaec88c9aae2730ac493bb196aff44d05d"
+hash = "63b769ac4aec72232e48d2ee41904df2549fb5b4c2f8d4026aad7cde552f4950"
 
 [[files]]
 file = "kubejs/server_scripts/spawned_entity_events.js"

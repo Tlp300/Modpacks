@@ -6,7 +6,7 @@ ServerEvents.recipes(event => {
   // Create
 
   // Farmer's Delight
-  event.shapeless('farmersdelight:rope', 'supplementaries:rope').id(`${ID_PREFIX}fd_rope_to_sp_rope`);
+  event.shapeless('supplementaries:rope', 'farmersdelight:rope').id(`${ID_PREFIX}fd_rope_to_sp_rope`);
   
   // Azalea Conversion
   event.shapeless('2x caverns_and_chasms:azalea_log', '2x quark:azalea_log').id(`${ID_PREFIX}quark_azalea_to_cave_azalea`);
