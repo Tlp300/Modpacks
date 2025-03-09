@@ -2,6 +2,7 @@ ServerEvents.recipes(event => {
   const ID_PREFIX = 'scrimmers:crafting/';
 
   // Minecraft
+  event.shapeless('4x minecraft:torch', ['minecraft:stick', 'minecraft:glow_berries']).id(`${ID_PREFIX}glowberry_torches`);
 
   // Create
 
