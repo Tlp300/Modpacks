@@ -197,8 +197,8 @@
 
 	[building.leaf_carpet]
 		#This feature disables itself if any of the following mods are loaded:
-		# - immersive_weathering
 		# - woodworks
+		# - immersive_weathering
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -237,8 +237,8 @@
 		#Allowed values: [0,1]
 		"Fall Damage Multiplier" = 0.5
 		#This feature disables itself if any of the following mods are loaded:
-		# - environmental
 		# - goated
+		# - environmental
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -246,8 +246,8 @@
 	[building.variant_bookshelves]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -266,8 +266,8 @@
 	[building.variant_ladders]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -317,9 +317,6 @@
 		"Enable Lava Interaction" = true
 		"Allow Opening Shulker Boxes" = true
 		"Allow Rotating Bundles" = true
-
-	[management.hotbar_changer]
-		"Animation Time" = 7.0
 
 	[management.inventory_sorting]
 		"Enable Player Inventory" = true
@@ -1902,7 +1899,7 @@
 		#Candles with soul sand below them or below the bookshelves dampen enchantments instead of influence them.
 		"Soul Candles Invert" = true
 		#A list of enchantment IDs you don't want the enchantment table to be able to create
-		"Disallowed Enchantments" = []
+		"Disallowed Enchantments" = ["spectrum:razing", "spectrum:resonance", "spectrum:voiding", "spectrum:inexorable", "spectrum:inertia", "spectrum:disarming", "spectrum:autosmelt", "spectrum:pest_control", "spectrum:exuberance", "spectrum:first_strike", "spectrum:improved_critical", "spectrum:treasure_hunter", "spectrum:tight_grip", "spectrum:sniper", "spectrum:steadfast", "spectrum:indestructible", "spectrum:big_catch", "spectrum:clovers_favor", "spectrum:inventory_insertion", "spectrum:serendipity_reel"]
 		#An array of influences each candle should apply. This list must be 16 elements long, and is in order of wool colors.
 		#A minus sign before an enchantment will make the influence decrease the probability of that enchantment.
 		"Influences List" = ["minecraft:unbreaking", "minecraft:fire_protection", "minecraft:knockback,minecraft:punch", "minecraft:feather_falling", "minecraft:looting,minecraft:fortune,minecraft:luck_of_the_sea", "minecraft:blast_protection", "minecraft:silk_touch,minecraft:channeling", "minecraft:bane_of_arthropods", "minecraft:protection", "minecraft:respiration,minecraft:loyalty,minecraft:infinity", "minecraft:sweeping,minecraft:multishot", "minecraft:efficiency,minecraft:sharpness,minecraft:lure,minecraft:power,minecraft:impaling,minecraft:quick_charge", "minecraft:aqua_affinity,minecraft:depth_strider,minecraft:riptide", "minecraft:thorns,minecraft:piercing", "minecraft:fire_aspect,minecraft:flame", "minecraft:smite,minecraft:projectile_protection"]
