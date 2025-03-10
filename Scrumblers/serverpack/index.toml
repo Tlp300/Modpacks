@@ -1578,11 +1578,6 @@ hash = "bbba6ac677c4e82b397501e4db188fadcafc4dacff02b835e4b8a44ffcc9a3c7"
 metafile = true
 
 [[files]]
-file = "mods/leospectruminktweak.pw.toml"
-hash = "bcfabff0e4b00837935a43c3d54351f94a592565454e37b1e1e01cb975f16725"
-metafile = true
-
-[[files]]
 file = "mods/lmft.pw.toml"
 hash = "d71706d797a755e0181080e1e82470581b1faa08013f312a671b8d3cc3133b09"
 metafile = true
