@@ -3,6 +3,9 @@ ServerEvents.recipes(event => {
 
   // Minecraft
   event.shapeless('4x minecraft:torch', ['minecraft:stick', 'minecraft:glow_berries']).id(`${ID_PREFIX}glowberry_torches`);
+  
+  event.smelting('6x caverns_and_chasms:silver_nugget', 'malum:silver_node').xp(0.25);
+  event.smelting('6x create:copper_nugget', 'malum:copper_node').xp(0.25);
 
   // Create
 
