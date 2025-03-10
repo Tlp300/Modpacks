@@ -1,7 +1,0 @@
-name = "leospectruminktweak"
-filename = "leospectruminktweak.jar"
-
-[download]
-url = "https://github.com/Tlp300/Modpacks/blob/main/Special-Files/leospectruminktweak.jar"
-hash-format = "sha256"
-hash = "1a3d4dbc69b87dd33bd1ba928bb0908063c59d16d11c25a13289cb4d8d229bf4"
