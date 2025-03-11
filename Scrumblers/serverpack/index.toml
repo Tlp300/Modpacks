@@ -597,6 +597,10 @@ file = "config/paxi/datapacks/Misc Mod Changes/data/create/recipes/crafting/kine
 hash = "bd965c412746ee2cc301c07d53361726ac402fb703ae0dfdd92e90490b5919e9"
 
 [[files]]
+file = "config/paxi/datapacks/Misc Mod Changes/data/create/tags/items/modded_stripped_logs.json"
+hash = "a064acd7bfeccab2d54cff9ef8250f561a9f83fbef6e30d6d934f4c6bdab1b03"
+
+[[files]]
 file = "config/paxi/datapacks/Misc Mod Changes/data/quarkmatrixtable/recipes/convert_to_matrix_table.json"
 hash = "20f398e1c6ba622da6cdca1793df036f7895c1ddc7c41b1623ca0561defbcf65"
 
