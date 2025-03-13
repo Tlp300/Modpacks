@@ -1165,6 +1165,10 @@ file = "kubejs/server_scripts/recipes/create.js"
 hash = "8cecfb2557606af70f18def94dc7b7b94246f0c534602c440fad2eb82ee8f19c"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/everycompat_stupid.js"
+hash = "4531ff76682dea3c5a2912620eac82807f9146a12a00a0c879586af76527bc01"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
 hash = "b8d387d3813dcfd6b3d4a5aa1adccab6c1a5dbe8b009cb3ca88443474b67c5c3"
 
