@@ -37,6 +37,11 @@ ServerEvents.recipes(event => {
   replaceOutput('neapolitan:milk_bottle', 'farmersdelight:milk_bottle');
 
   replaceInputID('minecraft:blast_furnace', 'minecraft:furnace', '#scrimmers:furnaces');
+  
+  // FLESH
+  
+  replaceInput('caverns_and_chasms:living_flesh', '#scrimmers:living_flesh');
+  replaceInput('malum:living_flesh', '#scrimmers:living_flesh');
 
   // Misc
   replaceOutput('farmersdelight:rope', 'supplementaries:rope');

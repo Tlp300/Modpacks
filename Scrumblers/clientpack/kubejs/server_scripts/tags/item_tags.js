@@ -9,6 +9,11 @@ ServerEvents.tags('item', event => {
     'minecraft:bowl',
   ]);
   
+  event.add('scrimmers:living_flesh', [
+    'caverns_and_chasms:living_flesh',
+	'malum:living_flesh',
+  ]);
+  
   event.add('scrimmers:furnaces', [
     'minecraft:furnace',
     'mynethersdelight:blackstone_furnace',
