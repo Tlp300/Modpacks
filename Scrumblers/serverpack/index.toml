@@ -1042,7 +1042,7 @@ hash = "ae1995c3bac2a03f767a2c8da6af75364f8a0fc8de6bd82334d05191d97bdc79"
 
 [[files]]
 file = "config/treechop-common.toml"
-hash = "aed067acf3903af1f420416f24de01cd27d7968384ad2f2787fffc21e45852cb"
+hash = "47022dd7f1086bc65910fd72ca159ec7f11d4c8becc983ba09b711d1173c6c3f"
 
 [[files]]
 file = "config/universalbonemeal-server.toml"
