@@ -505,10 +505,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "ff04184d90f9ceb63f78aed11ced8b480b3b9de2f9051576e039a458005ac03b"
 
 [[files]]
-file = "config/leavesbegone-server.toml"
-hash = "d959f115d82689b7f6075b0af48e8be95a09b3f73b6a67319646aa4bfdc0b101"
-
-[[files]]
 file = "config/lmft.json"
 hash = "4846032c4ea16277b5ba5622f77017472c15b6b23a60fc144c3e2959f91f6ee9"
 
@@ -1578,11 +1574,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
-metafile = true
-
-[[files]]
-file = "mods/leaves-be-gone.pw.toml"
-hash = "bbba6ac677c4e82b397501e4db188fadcafc4dacff02b835e4b8a44ffcc9a3c7"
 metafile = true
 
 [[files]]
