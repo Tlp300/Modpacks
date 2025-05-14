@@ -1,0 +1,7 @@
+name = "forgified-fabric-api"
+filename = "fabric-api-0.92.2+1.11.9+1.20.1.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.20.1/jars/fabric-api-0.92.2+1.11.9+1.20.1.jar"
+hash-format = "sha256"
+hash = "18f8d05244924c551a89d57393c6d22cb58f8117afbba19fd51bc7788e04c55c"

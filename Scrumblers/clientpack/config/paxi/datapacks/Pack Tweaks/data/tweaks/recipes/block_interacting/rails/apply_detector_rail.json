@@ -1,0 +1,17 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "minecraft:stone_pressure_plate"
+    },
+    "block_in": "rail",
+    "post": [
+        {
+            "type": "place",
+            "block": "detector_rail"
+        },
+        {
+            "type": "execute",
+            "command": "playsound minecraft:block.stone.place block @a ~ ~ ~ 1 0.8"
+        }
+    ]
+}
