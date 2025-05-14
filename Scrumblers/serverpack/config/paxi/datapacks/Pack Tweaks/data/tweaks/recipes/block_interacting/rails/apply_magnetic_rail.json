@@ -1,0 +1,17 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "alexscaves:azure_neodymium_ingot"
+    },
+    "block_in": "rail",
+    "post": [
+        {
+            "type": "place",
+            "block": "alexscaves:magnetic_levitation_rail"
+        },
+        {
+            "type": "execute",
+            "command": "playsound minecraft:block.copper.place block @a ~ ~ ~"
+        }
+    ]
+}

@@ -1609,6 +1609,11 @@ hash = "0369534c917c40abad906a7087198ec286f543860a38b68453111a80ca755e2a"
 metafile = true
 
 [[files]]
+file = "mods/inktweak.pw.toml"
+hash = "1e46579bd541236678ec76a5c560ad23f146dfe470b70bc2097f28da7fc0b533"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "ced60ee58e495c3d3b6f82565735d7d4bc4631d2a073e57c847b5f5e8894c95f"
 metafile = true
@@ -1654,11 +1659,6 @@ hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
-file = "mods/leospectruminktweak.pw.toml"
-hash = "2799c485451f6eb909dbf7c9378c3062d0918d09264557617e360d834c4df8ba"
-metafile = true
-
-[[files]]
 file = "mods/lmft.pw.toml"
 hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
 metafile = true
@@ -1684,11 +1684,6 @@ hash = "ed5b202169a2d706d6e3e26f33a742c3da7f80a5403cca9863c889d453156358"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
-metafile = true
-
-[[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "8a459a2534f09d18581fa154a84f428b1eaf1721fc8493ebe1e80df490e7502c"
 metafile = true
@@ -1699,8 +1694,9 @@ hash = "46525fa0dd149cd614b994108f5e34446bfa61d061019b2308a321a5c4eb3c7e"
 metafile = true
 
 [[files]]
-file = "mods/mna-forge-1.20.1-3.1.0.9-all.jar"
-hash = "8a5a04698457fd471343738926a58fedc759c87c802ab3f31d3b653192a71e3e"
+file = "mods/mna.pw.toml"
+hash = "acf5b14319ccb796ac3cfaef920863ba4a251d3742dfa9ba69c82bff28fac881"
+metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
@@ -1860,11 +1856,6 @@ metafile = true
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "87caea00305cfee9c1062f10f61a1cb8897ca884361744151d9bc02845c84037"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Forgery"
+filename = "forgery-3.6.1+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "664657f78cd95ce5cd311b8d6dec3796a88c6a07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6522707
+project-id = 434087
