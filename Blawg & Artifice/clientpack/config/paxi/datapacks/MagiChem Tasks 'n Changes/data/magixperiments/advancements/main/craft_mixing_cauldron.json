@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "hexerei:mixing_cauldron"
+    },
+    "title": {
+      "translate": "advancements.magixperiments.craft_mixing_cauldron.title"
+    },
+    "description": {
+      "translate": "advancements.magixperiments.craft_mixing_cauldron.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "magixperiments:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hexerei:mixing_cauldron"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

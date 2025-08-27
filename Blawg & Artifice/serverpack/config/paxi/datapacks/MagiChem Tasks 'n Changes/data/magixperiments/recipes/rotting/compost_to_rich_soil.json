@@ -1,0 +1,7 @@
+{
+  "type": "magichem:anointing",
+  "targetBlock": "farmersdelight:organic_compost",
+  "materia": "magichem:essentia_rotten",
+  "chance": 32.5,
+  "result": "farmersdelight:rich_soil"
+}

@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "hexerei:witch_hazel_broom"
+    },
+    "title": {
+      "translate": "advancements.magixperiments.craft_broom.title"
+    },
+    "description": {
+      "translate": "advancements.magixperiments.craft_broom.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "magixperiments:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hexerei:willow_broom",
+			  "hexerei:witch_hazel_broom",
+			  "hexerei:mahogany_broom"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

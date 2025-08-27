@@ -1,0 +1,7 @@
+{
+  "type": "magichem:anointing",
+  "targetBlock": "minecraft:potatoes",
+  "materia": "magichem:admixture_whimsy",
+  "chance": 100.0,
+  "result": "botania:tiny_potato"
+}

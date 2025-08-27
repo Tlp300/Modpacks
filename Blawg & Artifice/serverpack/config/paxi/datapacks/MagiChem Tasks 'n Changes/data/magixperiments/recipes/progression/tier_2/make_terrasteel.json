@@ -1,0 +1,5 @@
+{
+  "type": "mna:progression-condition",
+  "advancement": "botania:main/terrasteel_pickup",
+  "tier": 2
+}

@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "description": "Changes for MagiChem progression",
+    "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "botania",
+        "path": "recipes/fertilizer_dye"
+      },
+      {
+        "namespace": "magichem",
+        "path": "recipes/alchemical_distillation_fabrication/botania/fertilizer"
+      }
+    ]
+  }
+}

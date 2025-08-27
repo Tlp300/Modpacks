@@ -1,0 +1,5 @@
+{
+  "type": "mna:progression-condition",
+  "advancement": "botania:main/gaia_guardian_kill",
+  "tier": 3
+}

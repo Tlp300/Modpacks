@@ -1,0 +1,7 @@
+{
+  "type": "magichem:anointing",
+  "targetBlock": "minecraft:deepslate_bricks",
+  "materia": "magichem:admixture_erosion",
+  "chance": 35.0,
+  "result": "minecraft:cracked_deepslate_bricks"
+}

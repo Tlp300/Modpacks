@@ -1,0 +1,7 @@
+{
+  "type": "magichem:anointing",
+  "targetBlock": "minecraft:green_wool",
+  "materia": "magichem:admixture_color",
+  "chance": 100.0,
+  "result": "minecraft:cyan_wool"
+}

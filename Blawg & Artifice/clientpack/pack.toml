@@ -1,0 +1,13 @@
+name = "Blawg & Artifice"
+author = "Tlp"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f95891aa8f3009f738b20a92b89d77773c9757a91655e692376eb0f06b828c0f"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

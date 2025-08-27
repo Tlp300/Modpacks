@@ -1,0 +1,563 @@
+{
+  "display": {
+    "icon": {
+      "item": "botania:dice"
+    },
+    "title": {
+      "translate": "advancements.magixperiments.acquire_aesir_relics.title"
+    },
+    "description": {
+      "translate": "advancements.magixperiments.acquire_aesir_relics.description"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "botania:challenge/gaia_guardian_hardmode",
+  "criteria": {
+    "relic1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:infinite_fruit"
+            ]
+          },
+          {
+            "items": [
+              "botania:king_key"
+            ]
+          }
+        ]
+      }
+    },
+    "relic2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:infinite_fruit"
+            ]
+          },
+          {
+            "items": [
+              "botania:flugel_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "relic3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:infinite_fruit"
+            ]
+          },
+          {
+            "items": [
+              "botania:thor_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic4": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:infinite_fruit"
+            ]
+          },
+          {
+            "items": [
+              "botania:odin_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic5": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:infinite_fruit"
+            ]
+          },
+          {
+            "items": [
+              "botania:loki_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic6": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:king_key"
+            ]
+          },
+          {
+            "items": [
+              "botania:infinite_fruit"
+            ]
+          }
+        ]
+      }
+    },
+    "relic7": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:king_key"
+            ]
+          },
+          {
+            "items": [
+              "botania:flugel_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "relic8": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:king_key"
+            ]
+          },
+          {
+            "items": [
+              "botania:thor_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic9": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:king_key"
+            ]
+          },
+          {
+            "items": [
+              "botania:odin_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic10": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:king_key"
+            ]
+          },
+          {
+            "items": [
+              "botania:loki_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic11": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:flugel_eye"
+            ]
+          },
+          {
+            "items": [
+              "botania:infinite_fruit"
+            ]
+          }
+        ]
+      }
+    },
+    "relic12": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:flugel_eye"
+            ]
+          },
+          {
+            "items": [
+              "botania:king_key"
+            ]
+          }
+        ]
+      }
+    },
+    "relic13": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:flugel_eye"
+            ]
+          },
+          {
+            "items": [
+              "botania:thor_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic14": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:flugel_eye"
+            ]
+          },
+          {
+            "items": [
+              "botania:odin_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic15": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:flugel_eye"
+            ]
+          },
+          {
+            "items": [
+              "botania:loki_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic16": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:thor_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:infinite_fruit"
+            ]
+          }
+        ]
+      }
+    },
+    "relic17": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:thor_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:king_key"
+            ]
+          }
+        ]
+      }
+    },
+    "relic18": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:thor_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:flugel_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "relic19": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:thor_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:odin_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic20": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:thor_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:loki_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic21": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:odin_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:infinite_fruit"
+            ]
+          }
+        ]
+      }
+    },
+    "relic22": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:odin_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:king_key"
+            ]
+          }
+        ]
+      }
+    },
+    "relic23": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:odin_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:flugel_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "relic24": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:odin_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:thor_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic25": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:odin_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:loki_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic26": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:loki_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:infinite_fruit"
+            ]
+          }
+        ]
+      }
+    },
+    "relic27": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:loki_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:king_key"
+            ]
+          }
+        ]
+      }
+    },
+    "relic28": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:loki_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:flugel_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "relic29": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:loki_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:thor_ring"
+            ]
+          }
+        ]
+      }
+    },
+    "relic30": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:loki_ring"
+            ]
+          },
+          {
+            "items": [
+              "botania:odin_ring"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "relic1",
+      "relic2",
+      "relic3",
+      "relic4",
+      "relic5",
+      "relic6",
+      "relic7",
+      "relic8",
+      "relic9",
+      "relic10",
+      "relic11",
+      "relic12",
+      "relic13",
+      "relic14",
+      "relic15",
+      "relic16",
+      "relic17",
+      "relic18",
+      "relic19",
+      "relic20",
+      "relic21",
+      "relic22",
+      "relic23",
+      "relic24",
+      "relic25",
+      "relic26",
+      "relic27",
+      "relic28",
+      "relic29",
+      "relic30"
+    ]
+  ]
+}
