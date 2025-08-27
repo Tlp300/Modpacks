@@ -3,3 +3,5 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+Scrumblers/clientpack/packwiz.exe
+Scrumblers/serverpack/packwiz.exe
