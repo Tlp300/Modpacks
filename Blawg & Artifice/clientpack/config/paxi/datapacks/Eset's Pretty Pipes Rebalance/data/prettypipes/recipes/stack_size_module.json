@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "prettypipes:blank_module"
+        },
+        {
+            "item": "minecraft:comparator"
+        }
+    ],
+    "result": {
+        "item": "prettypipes:stack_size_module"
+    }
+}

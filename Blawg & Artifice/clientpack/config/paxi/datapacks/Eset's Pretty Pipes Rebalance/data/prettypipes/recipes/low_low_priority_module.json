@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "prettypipes:blank_module"
+        },
+        {
+            "tag": "forge:cobblestone"
+        }
+    ],
+    "result": {
+        "item": "prettypipes:low_low_priority_module"
+    }
+}

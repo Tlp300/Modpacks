@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "prettypipes:blank_module"
+        },
+        {
+            "item": "minecraft:name_tag"
+        },
+        {
+            "tag": "forge:nuggets/lead"
+        }
+    ],
+    "result": {
+        "item": "prettypipes:mod_filter_modifier"
+    }
+}

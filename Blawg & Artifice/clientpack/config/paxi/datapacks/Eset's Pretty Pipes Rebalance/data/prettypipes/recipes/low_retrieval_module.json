@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "prettypipes:blank_module"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        }
+    ],
+    "result": {
+        "item": "prettypipes:low_retrieval_module"
+    }
+}

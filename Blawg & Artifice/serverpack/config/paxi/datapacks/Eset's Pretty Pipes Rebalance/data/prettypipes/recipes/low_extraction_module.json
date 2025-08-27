@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "prettypipes:blank_module"
+        },
+        {
+            "item": "minecraft:repeater"
+        }
+    ],
+    "result": {
+        "item": "prettypipes:low_extraction_module"
+    }
+}

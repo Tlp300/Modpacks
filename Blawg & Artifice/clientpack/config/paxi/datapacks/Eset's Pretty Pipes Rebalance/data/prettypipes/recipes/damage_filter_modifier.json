@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "prettypipes:blank_module"
+        },
+        {
+            "item": "minecraft:name_tag"
+        },
+        {
+            "tag": "forge:nuggets/silver"
+        }
+    ],
+    "result": {
+        "item": "prettypipes:damage_filter_modifier"
+    }
+}

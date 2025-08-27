@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " I ",
+        "IMI",
+        " I "
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_nugget"
+        },
+        "M": {
+            "item": "prettypipes:low_low_priority_module"
+        }
+    },
+    "result": {
+        "item": "prettypipes:medium_low_priority_module"
+    }
+}

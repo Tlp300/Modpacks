@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " T ",
+        " TT",
+        "R  "
+    ],
+    "key": {
+        "T": {
+            "tag": "forge:ingots/tin"
+        },
+        "R": {
+            "tag": "forge:dyes/red"
+        }
+    },
+    "result": {
+        "item": "prettypipes:wrench"
+    }
+}

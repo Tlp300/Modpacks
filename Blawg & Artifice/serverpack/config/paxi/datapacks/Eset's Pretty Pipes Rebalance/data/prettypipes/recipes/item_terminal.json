@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " L ",
+        "RCE",
+        "TTT"
+    ],
+    "key": {
+        "E": {
+            "item": "prettypipes:high_extraction_module"
+        },
+        "R": {
+            "item": "prettypipes:high_retrieval_module"
+        },
+        "L": {
+            "item": "minecraft:comparator"
+        },
+        "T": {
+            "tag": "forge:ingots/tin"
+        },
+        "C": {
+            "tag": "forge:chests"
+        }
+    },
+    "result": {
+        "item": "prettypipes:item_terminal"
+    }
+}

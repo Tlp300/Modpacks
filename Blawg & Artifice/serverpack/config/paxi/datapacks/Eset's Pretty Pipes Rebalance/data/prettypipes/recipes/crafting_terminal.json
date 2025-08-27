@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "prettypipes:item_terminal"
+        },
+        {
+            "item": "prettypipes:low_crafting_module"
+        }
+    ],
+    "result": {
+        "item": "prettypipes:crafting_terminal"
+    }
+}

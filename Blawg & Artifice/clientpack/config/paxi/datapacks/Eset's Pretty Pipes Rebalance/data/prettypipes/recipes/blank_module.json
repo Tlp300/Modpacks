@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "SSS",
+        "CRC"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "S": {
+            "item": "minecraft:stone_slab"
+        },
+        "C": { "tag": "forge:nuggets/copper" }
+    },
+    "result": {
+        "item": "prettypipes:blank_module",
+        "count": 3
+    }
+}

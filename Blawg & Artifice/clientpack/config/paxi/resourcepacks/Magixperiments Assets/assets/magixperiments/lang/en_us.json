@@ -14,14 +14,6 @@
 	"advancements.magixperiments.acquire_aesir_relics.description" : "Acquire two Relics of the Aesir",
 	"magixperiments:main/acquire_aesir_relics.description" : "[Botania] Acquire two Relics of the Aesir",
 	
-	"advancements.magixperiments.conduct_occult_ritual.title" : "My Friendly Spirits",
-	"advancements.magixperiments.conduct_occult_ritual.description" : "Conduct your first Occult Ritual",
-	"magixperiments:main/conduct_occult_ritual.description" : "[Occultism] Conduct your first Occult Ritual",
-	
-	"advancements.magixperiments.craft_storage_controller.title" : "Enormous Storage",
-	"advancements.magixperiments.craft_storage_controller.description" : "Create a Dimensional Storage Actuator",
-	"magixperiments:main/craft_storage_controller.description" : "[Occultism] Create a Dimensional Storage Actuator",
-	
 	"botania:main/terrasteel_pickup.description" : "[Botania] Create an ingot of Terrasteel",
 	"botania:main/gaia_guardian_kill.description" : "[Botania] Defeat the Guardian of Gaia",
 	"botania:main/pure_daisy_pickup.description" : "[Botania] Create a Pure Daisy"

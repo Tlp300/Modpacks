@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "prettypipes:blank_module"
+        },
+        {
+            "item": "minecraft:name_tag"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        }
+    ],
+    "result": {
+        "item": "prettypipes:filter_increase_modifier"
+    }
+}
