@@ -1046,7 +1046,7 @@ hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
 file = "defaultconfigs/mna-general.toml"
-hash = "6256bb1eead832d4b20e98bf75f60392d63fc29198dcec51465ec13fc6a0e0b7"
+hash = "fe2ce09bdc10511d2c197801a78c5e9acbe1d78d957c3f87069b42980bfc465c"
 
 [[files]]
 file = "mods/.index/amendments.pw.toml"

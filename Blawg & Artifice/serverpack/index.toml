@@ -273,18 +273,6 @@ file = "config/easymagic-server.toml"
 hash = "7dbf42819b121001c76e06c07994c363d316ce110f7b06dd032687f4099d5687"
 
 [[files]]
-file = "config/embeddium-fingerprint.json"
-hash = "5cf3e734325fc086ac77884c94c857a8efe42407205d9b62332e1f5220300880"
-
-[[files]]
-file = "config/embeddium-mixins.properties"
-hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
-
-[[files]]
-file = "config/embeddium-options.json"
-hash = "b78e1a745d5080dc2e50dd192982aeb59f32b1645626b77ac38a2b725ea52122"
-
-[[files]]
 file = "config/emi.css"
 hash = "03a9745f7fe6ab1a1fdec8204f4a37c727c1096cce422a9e9d1c11ef9a47671e"
 
@@ -457,10 +445,6 @@ file = "config/lootr-common.toml"
 hash = "b26ca5b04be80d765070f57969c621f93c6f108f946d9623fdf8e695d8855960"
 
 [[files]]
-file = "config/mna-client.toml"
-hash = "f3f73a9442e92985e7f7216b0240a32388383950fdc67fce5826a5f10aa2fd9b"
-
-[[files]]
 file = "config/modernfix-common.toml"
 hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
@@ -491,10 +475,6 @@ hash = "442deeab31ad532972d183740630ebcd6932a0637805072532c969cbf014067a"
 [[files]]
 file = "config/neruina.json"
 hash = "29e73ae1075a5d9f61394a353e60ba84c5c801e511105f2400e0d4ba66a9bf76"
-
-[[files]]
-file = "config/notenoughanimations.json"
-hash = "e6a85b2693997622d33f673b57f0d343098046edacbf2ed2856fceed47571b9d"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -1046,7 +1026,7 @@ hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
 file = "defaultconfigs/mna-general.toml"
-hash = "6256bb1eead832d4b20e98bf75f60392d63fc29198dcec51465ec13fc6a0e0b7"
+hash = "fe2ce09bdc10511d2c197801a78c5e9acbe1d78d957c3f87069b42980bfc465c"
 
 [[files]]
 file = "mods/.index/amendments.pw.toml"
