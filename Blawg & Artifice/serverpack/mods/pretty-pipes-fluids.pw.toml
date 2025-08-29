@@ -1,0 +1,13 @@
+name = "Pretty Pipes: Fluids"
+filename = "ppfluids-1.20.1-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e204dd9ae6038dacb97d16acbce4e82e5bca27a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6651464
+project-id = 479142

@@ -11,5 +11,20 @@ id = "doublehotbar_off"
 name = "No"
 description = "Don't install Double Hotbar."
 
+[flavor_groups.figura]
+name = "Figura"
+description = "Adds the ability to change your model to nearly anything made in Blockbench and assorted things, with almost unlimited customizability. Clientside."
+side = "client"
+[[flavor_groups.figura.choices]]
+id = "figura_on"
+name = "Yes"
+description = "Installs Figura."
+[[flavor_groups.figura.choices]]
+id = "figura_off"
+name = "No"
+description = "Don't install Figura."
+
 [metafile.double-hotbar]
 flavors = "doublehotbar_on"
+[metafile.figura]
+flavors = "figura_on"

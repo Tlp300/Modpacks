@@ -1,0 +1,13 @@
+name = "Metalborn"
+filename = "Metalborn-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e5e9dac4123f11b237e2a4f2247a87047a2567f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6819390
+project-id = 1305191

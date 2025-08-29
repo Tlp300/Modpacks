@@ -1,0 +1,13 @@
+name = "Double Hotbar"
+filename = "double_hotbar-1.3.2.1-mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac1a1401e04332dc38e17c41585a74a2a142c865"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5236983
+project-id = 554026
