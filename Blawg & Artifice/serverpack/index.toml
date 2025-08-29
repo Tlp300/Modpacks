@@ -57,6 +57,14 @@ file = "config/autumnity-common.toml"
 hash = "190b4f1cb084117df61fa76012f5c8405dddaf849aa0293728c16e36f9e8d8d4"
 
 [[files]]
+file = "config/backpacked.client.toml"
+hash = "f67fa1bdcbfc38e773740dc1d08a5037cd6287c4bfb808a4b100deebef21491d"
+
+[[files]]
+file = "config/backpacked.server.toml"
+hash = "68679cd0f77ef3f8c2063165c2cd4f66a2ff38189c6abf98f22a93d4ba75e8bf"
+
+[[files]]
 file = "config/balm-client.toml"
 hash = "76d9b5b7ec7c755c78d7047cb0e0bf5e318bb375a8fcdf3aef3cd335b2a008bf"
 
@@ -293,6 +301,14 @@ file = "config/etched-client.toml"
 hash = "f2ba2f9022471e4b945cf7ed31a3392dd2c62bbee46f4776c47dcc5a812a5915"
 
 [[files]]
+file = "config/exposure-client.toml"
+hash = "4ad8b1ff7452bc6314a778a45ecc370fef4b586963c650f8836de2ce110ee4f0"
+
+[[files]]
+file = "config/exposure-common.toml"
+hash = "03666ca5d1fd2fa23406e92532186b0e729c46ed1fbce4aee88a26e237d77558"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
@@ -306,7 +322,7 @@ hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
 
 [[files]]
 file = "config/figura.json"
-hash = "45d1b9d9bf59fbd6a384fe8a7d1db75f7364276e17819f738c670202be5d4fd4"
+hash = "06093d404638e4cd092521f7318057fc098b8550e7c3129f436ac06259cf22e3"
 
 [[files]]
 file = "config/fml.toml"
@@ -899,6 +915,10 @@ hash = "513f0069764abdeca82a73fce2d43e2937a39ad8ae4a616e2a2af3f5c6263d27"
 [[files]]
 file = "config/paxi/datapacks/Merciful Beginnings/pack.png"
 hash = "9efab76e193a36b50402d6f4b5c040d564069dbe90db35e703bbd488ea0a8760"
+
+[[files]]
+file = "config/paxi/datapacks/Misc Mod Changes/data/backpacked/recipes/backpacked.json"
+hash = "b34eb6ba1d71d5872660c7b0dd2ff2ddc1d59d782e8f2926269b5039e3b842f2"
 
 [[files]]
 file = "config/paxi/datapacks/Misc Mod Changes/data/minecraft/tags/blocks/harvestable_crystal.json"
@@ -1787,6 +1807,10 @@ file = "mods/autumnity-1.20.1-5.0.2.jar"
 hash = "01e6b9b3020a045fffd7113ba35fdad8d5411079c1b3a8a8944ff0755a275952"
 
 [[files]]
+file = "mods/backpacked-forge-1.20.1-3.0.0-beta.9.jar"
+hash = "5842cbe5c601dde3f6e3ba828a9930229b2bdb833d9eb1f72a5e8d6436c84c64"
+
+[[files]]
 file = "mods/baguettelib-1.20.1-Forge-1.1.0.jar"
 hash = "992bce05655d3688522b3a9ab261ea2d039925d125003ca88de3bbd7d1baac2c"
 
@@ -1883,6 +1907,14 @@ file = "mods/etched-3.0.4.jar"
 hash = "18fa648a887eb8ae284e278b1c361c8bffe73947336761d8b1787052dd34fe69"
 
 [[files]]
+file = "mods/exposure-1.20.1-1.7.16-forge.jar"
+hash = "55a8351bffc41b0d4a520d004c05561d4d76c1a1128f364bd4a44251c00f1de9"
+
+[[files]]
+file = "mods/exposure_catalog-1.20.1-1.0.3-forge.jar"
+hash = "49cd18b0d424875d06eaf371575661e2fe921fb2e4f4ac07c1c5860a47a004dc"
+
+[[files]]
 file = "mods/ferritecore-6.0.1-forge.jar"
 hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
 
@@ -1893,6 +1925,10 @@ hash = "f1820f219aefcf1a75cc203cd2a2115bc06696bf9e18b38f8aef308062c532d3"
 [[files]]
 file = "mods/forgery-3.6.2+1.20.jar"
 hash = "ef7da8aae512f0009ac4a1c6a9f0fac138f246075e08441f85c0dbc473ac849b"
+
+[[files]]
+file = "mods/framework-forge-1.20.1-0.7.15.jar"
+hash = "0c29b9bab2ca7209a6cc8d80b2cd06daa4be2da81b636f7292cebebfaaea6c08"
 
 [[files]]
 file = "mods/gallery-1.20.1-1.0.3.jar"
