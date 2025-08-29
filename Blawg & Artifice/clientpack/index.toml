@@ -253,6 +253,10 @@ file = "config/dimdoors-config.json5"
 hash = "debf0d9fa5aefe23d94101b9604b448d4889c9586c65c47c089d2778cd6fed1c"
 
 [[files]]
+file = "config/double-hotbar-configs.toml"
+hash = "72d78b2c80175cb69eedfc964526e906186e82c9b98bace72c4f4b7d1335f7ff"
+
+[[files]]
 file = "config/drawerstooltip-client.yaml"
 hash = "6bf7a8d5265c8c4f2dbd9284a32a0de06224447e778900bd191ea51581429535"
 
@@ -1915,6 +1919,10 @@ file = "mods/dimdoors-5.4.4-1.20.1-forge.jar"
 hash = "ee8193a36d07827e52d540a81d07460e3b47a0bda6366adef1873d9b02a83b52"
 
 [[files]]
+file = "mods/double_hotbar-1.3.2.1-mc1.20.1-forge.jar"
+hash = "7a7c01fa9fde6f34f70a4b947ad9243fc0bc0fff6394429eda29e6a470cad0b1"
+
+[[files]]
 file = "mods/dummmmmmy-1.20-2.0.9.jar"
 hash = "bfbda7e454cd2cc547578208b3c42a2526a2615b155c76952f6981ba3da0fe89"
 
@@ -2073,3 +2081,7 @@ hash = "5dc0fc5687c43ad9cec522ebb6eda9d9c84edc5b0c401721e91450b1ef57de5a"
 [[files]]
 file = "mods/toomanyrecipeviewers-0.6.3+mc.20.1.jar"
 hash = "e67397eb88942cbb5154dc83eea6126d9c283eadb1390266a783aea757a6f7cf"
+
+[[files]]
+file = "unsup.toml"
+hash = "14c8f5bc6c2580e61c040f188cca046e10a87b132daface67f8cd5a242b0d268"

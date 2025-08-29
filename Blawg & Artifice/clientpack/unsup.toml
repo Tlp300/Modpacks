@@ -1,0 +1,15 @@
+[flavor_groups.doublehotbar]
+name = "Double Hotbar"
+description = "Top row of your inventory (configurable) becomes an extra hotbar. Clientside."
+side = "client"
+[[flavor_groups.doublehotbar.choices]]
+id = "doublehotbar_on"
+name = "Yes"
+description = "Installs Double Hotbar."
+[[flavor_groups.doublehotbar.choices]]
+id = "doublehotbar_off"
+name = "No"
+description = "Don't install Double Hotbar."
+
+[metafile.double-hotbar]
+flavors = "doublehotbar_on"
