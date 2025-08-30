@@ -1620,6 +1620,11 @@ hash = "5971c0c903055dccf4b1e3becdacb2451ab0fe4b6a72ca274b4e9e37a0f9089e"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "851ab178d0a856ce990f56a2f7d1356dd1f5215c826209643fea7d22ed911907"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
 metafile = true
@@ -1726,4 +1731,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "6b12ea0800bcf3d2448d6a7b368c89494e26eaaf37ad71c5883a4396d0555efb"
+hash = "220154e369529aad89a08eec571bcac8455a6722fc17bbc70703058228169275"

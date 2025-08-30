@@ -11,6 +11,19 @@ id = "doublehotbar_off"
 name = "No"
 description = "Don't install Double Hotbar."
 
+[flavor_groups.voicechat]
+name = "Simple Voice Chat"
+description = "Adds voice chat ingame. Serverside, but doesn't need to be installed clientside if you prefer."
+side = "client"
+[[flavor_groups.voicechat.choices]]
+id = "voicechat_on"
+name = "Yes"
+description = "Installs Simple Voice Chat."
+[[flavor_groups.voicechat.choices]]
+id = "voicechat_off"
+name = "No"
+description = "Don't install Simple Voice Chat."
+
 [flavor_groups.figura]
 name = "Figura"
 description = "Adds the ability to change your model to nearly anything made in Blockbench and assorted things, with almost unlimited customizability. Clientside."
@@ -28,3 +41,5 @@ description = "Don't install Figura."
 flavors = "doublehotbar_on"
 [metafile.figura]
 flavors = "figura_on"
+[metafile.simple-voice-chat]
+flavors = "voicechat_on"

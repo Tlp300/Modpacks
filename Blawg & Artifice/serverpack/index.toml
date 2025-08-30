@@ -1491,11 +1491,6 @@ hash = "a27715adab9f478c1bdf1789c1e51343bb2300e36f6ead52c4f62aeae595c791"
 metafile = true
 
 [[files]]
-file = "mods/my-server-is-compatible.pw.toml"
-hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
-metafile = true
-
-[[files]]
 file = "mods/neapolitan.pw.toml"
 hash = "7bb01abc93a90da48ae8452f501ba60e32c468438c0f864e6bc7ef1b5746c712"
 metafile = true
@@ -1573,6 +1568,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "5971c0c903055dccf4b1e3becdacb2451ab0fe4b6a72ca274b4e9e37a0f9089e"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "851ab178d0a856ce990f56a2f7d1356dd1f5215c826209643fea7d22ed911907"
 metafile = true
 
 [[files]]
