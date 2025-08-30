@@ -537,6 +537,54 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "f1213873377d208287ab10ddba35ed57c35a108fbfe5368d228e86a3a4310ef0"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/caverns_and_chasms/recipes/copper_ingot_from_nuggets.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/caverns_and_chasms/recipes/copper_nugget.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/caverns_and_chasms/recipes/netherite_ingot_from_nuggets.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/forge/tags/items/nuggets/copper.json"
+hash = "26783c5a094050ee7ca8dad41d74c6924b047ac379accf398f627341d55de92c"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/forge/tags/items/nuggets/netherite.json"
+hash = "cbec767928e4652fb2dbb0b7eca0cfd27ca272f78a5d0285c8a531a0342a271f"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/metalborn/recipes/metal/netherite_ingot_from_nuggets.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/cake.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/neapolitan/recipes/cake.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/neapolitan/recipes/milk/milk_bottles_from_bucket.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/neapolitan/recipes/milk/milk_bucket_from_bottles.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/pack.mcmeta"
+hash = "9e7a81ed3238d9a2b9022e506041575bc4051d3f26fc0104b4242c7ea302204f"
+
+[[files]]
 file = "config/paxi/datapacks/Construct Harvest Fix/data/mna/tags/blocks/construct_harvestables.json"
 hash = "15d45e3d2bb46d187fc4daa05820ea0b777bbe898a3a9edf78606fdc500d750c"
 

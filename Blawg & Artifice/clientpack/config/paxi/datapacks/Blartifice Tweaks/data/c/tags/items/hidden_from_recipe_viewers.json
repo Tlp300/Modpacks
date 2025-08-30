@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+        "caverns_and_chasms:copper_nugget",
+		"caverns_and_chasms:netherite_nugget"
+  ]
+}
