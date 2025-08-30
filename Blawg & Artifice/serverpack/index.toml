@@ -1141,6 +1141,26 @@ file = "defaultconfigs/mna-general.toml"
 hash = "fe2ce09bdc10511d2c197801a78c5e9acbe1d78d957c3f87069b42980bfc465c"
 
 [[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "e68215f92eeeab1ac7741dcbed1dd12929c1cc1a34d65b27665e2adb98b19d82"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
+hash = "e68215f92eeeab1ac7741dcbed1dd12929c1cc1a34d65b27665e2adb98b19d82"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+hash = "da381700fcb28e3c0f7338aef08355cdf7d2d6e217ee65d3830cbd5614fc8fca"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server.toml"
+hash = "8677b443db6033844ecc2a941f650e5b3dd514a8b6dba864932ef2e41ae3b425"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
+hash = "e68215f92eeeab1ac7741dcbed1dd12929c1cc1a34d65b27665e2adb98b19d82"
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bcbdefc3141031a1d3acff9ef3ecd93dae5946c632f1675ba4c9a7cb875b369a"
 metafile = true
