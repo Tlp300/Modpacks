@@ -481,6 +481,10 @@ file = "config/lootr-common.toml"
 hash = "b26ca5b04be80d765070f57969c621f93c6f108f946d9623fdf8e695d8855960"
 
 [[files]]
+file = "config/mantle-client.toml"
+hash = "389214da9d59c6eefda893b2b5a20d4afd53eca6ea41c9e1f7a72fc2ad782fec"
+
+[[files]]
 file = "config/mna-client.toml"
 hash = "f3f73a9442e92985e7f7216b0240a32388383950fdc67fce5826a5f10aa2fd9b"
 
@@ -1058,7 +1062,7 @@ hash = "fc6e40d65b6b46e20162f10ec8a1aa14ca23e524dadf0b80c9a19979bca8c768"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "dbef7335d4331d7e7c5a2b00b290acbaf40706868dc182c847cac35387cd697a"
+hash = "c06b45f6251d4ff3fcb790d97b3dace2c3d457a87e474e08333c0c8ab69e6c85"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -1424,7 +1428,7 @@ metafile = true
 
 [[files]]
 file = "mods/magichem.pw.toml"
-hash = "e28ed1cadf150ffc90f59fd771a482f77a351f29ad0e95e801b1cb62f2ab0f88"
+hash = "737a32db0859434da2123c46eb1c45ca10fda3df64e77307ebcc714316dd0bbe"
 metafile = true
 
 [[files]]
@@ -1569,7 +1573,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "edacf27ee09dd5ca71d2d7b46104b0a9fdbbb8b507ac239db51d47a3b6f53c64"
+hash = "5971c0c903055dccf4b1e3becdacb2451ab0fe4b6a72ca274b4e9e37a0f9089e"
 metafile = true
 
 [[files]]
