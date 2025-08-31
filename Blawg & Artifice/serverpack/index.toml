@@ -597,6 +597,10 @@ file = "config/paxi/datapacks/Blartifice Tweaks/data/caverns_and_chasms/recipes/
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/caverns_and_chasms/recipes/netherite_nugget.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/forge/tags/items/nuggets/copper.json"
 hash = "26783c5a094050ee7ca8dad41d74c6924b047ac379accf398f627341d55de92c"
 
@@ -605,16 +609,16 @@ file = "config/paxi/datapacks/Blartifice Tweaks/data/forge/tags/items/nuggets/ne
 hash = "cbec767928e4652fb2dbb0b7eca0cfd27ca272f78a5d0285c8a531a0342a271f"
 
 [[files]]
-file = "config/paxi/datapacks/Blartifice Tweaks/data/metalborn/recipes/metal/netherite_ingot_from_nuggets.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/cake.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/mna/recipes/manaweaving/animus_dust.json"
 hash = "6fd9a5ae3fbe43bac9701470419d8a45f46e7650e6986d17acf6624fab6368c3"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/mna/tags/arcane_furnace_doubling_blacklist.json"
+hash = "2b62f843cf59b193c0cb11b4b11b0bb64d0489bbce4e6876a6a3b56b3cfc3eef"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/neapolitan/recipes/cake.json"
