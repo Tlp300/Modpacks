@@ -629,6 +629,10 @@ file = "config/paxi/datapacks/Blartifice Tweaks/data/neapolitan/recipes/milk/mil
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/quark/recipes/building/crafting/chest/mixed_chest.json"
+hash = "842868e9b5a662aa8416c7e86085ddb16ef69ba1e362cb098a725823492a606b"
+
+[[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/pack.mcmeta"
 hash = "9e7a81ed3238d9a2b9022e506041575bc4051d3f26fc0104b4242c7ea302204f"
 
@@ -822,7 +826,7 @@ hash = "8c932b7e543e9cc04f0dc1e27f12649ea5962cbe578f8534b5353bbb31a9d9e1"
 
 [[files]]
 file = "config/paxi/datapacks/Eset's Pretty Pipes Rebalance/data/prettypipes/recipes/mod_filter_modifier.json"
-hash = "97c40e59d0b949fa1bee472a5610393922e0e425fa6c551c00ef2584ac5e0fc0"
+hash = "ddac7eadb720cb080a8e6bc8105932ed4ff94119ee7f12aa8ea1d8971d783450"
 
 [[files]]
 file = "config/paxi/datapacks/Eset's Pretty Pipes Rebalance/data/prettypipes/recipes/module_clearing.json"
