@@ -1209,6 +1209,11 @@ file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
 hash = "e68215f92eeeab1ac7741dcbed1dd12929c1cc1a34d65b27665e2adb98b19d82"
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "19f470521e7119c5fc1754e40e40b171eeef11335c54167cb482998c0737e979"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bcbdefc3141031a1d3acff9ef3ecd93dae5946c632f1675ba4c9a7cb875b369a"
 metafile = true
