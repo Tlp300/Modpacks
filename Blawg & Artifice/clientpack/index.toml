@@ -277,14 +277,6 @@ file = "config/embeddium-options.json"
 hash = "b78e1a745d5080dc2e50dd192982aeb59f32b1645626b77ac38a2b725ea52122"
 
 [[files]]
-file = "config/emi.css"
-hash = "03a9745f7fe6ab1a1fdec8204f4a37c727c1096cce422a9e9d1c11ef9a47671e"
-
-[[files]]
-file = "config/emitrades.json5"
-hash = "1ed0ed3da45ed6bc11cdb624218f76f8e52b63818703b25e717bbbec615e6e92"
-
-[[files]]
 file = "config/enchdesc.json"
 hash = "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5"
 
