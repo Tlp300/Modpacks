@@ -609,6 +609,10 @@ file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/cake.json
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/mna/recipes/manaweaving/animus_dust.json"
+hash = "6fd9a5ae3fbe43bac9701470419d8a45f46e7650e6986d17acf6624fab6368c3"
+
+[[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/neapolitan/recipes/cake.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
