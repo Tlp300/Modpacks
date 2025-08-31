@@ -509,6 +509,70 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_0.json"
+hash = "75d7cc9b82321fe437029d56068b373d2cd7b59ecf0839f6122503eb14490403"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_1.json"
+hash = "09799766d8b888cadab38a46701c9da6f9712e9eefd2651f15bd7e809ded2bc4"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_10.json"
+hash = "753c77a2a0ba19f20c4d2767544f1e6571d53fe0f500264925d547799861e639"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_11.json"
+hash = "c6eb4aee5e5cf12a1d1cd0adc5b117ffa022da5073956020009ea39c5497c62c"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_12.json"
+hash = "aa5da2e31a8058fe9dc4633b0d450929265746f6444a72bbc80aafe05b31bd5e"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_13.json"
+hash = "0a6a2885645547a39f094d6811e0a3484283a8580fa49e8f6f4b49692c3ed37b"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_14.json"
+hash = "b482dbd880eab9a53245040ef1c0f3cd8cf3152cd066e1a08d98d3750c0d07fb"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_15.json"
+hash = "3df63dfc366081f14ddda511959a7c544ab0ff2ab1212790746cb3a3f87e44d0"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_2.json"
+hash = "59d931eda56adff92127dfbde3735a9190097e5f42ee3ead130af8efffd9b872"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_3.json"
+hash = "8e99f4c1413b540a1ba5bbcf86f774c4863e5fa7dcecc45eebbc00c0651791c3"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_4.json"
+hash = "a75b3d96bba8c5697bdd1e684b48454d8489293e53fc4623374b61c0171b3be7"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_5.json"
+hash = "066d3b12a5f3c997faecee2d83e5150dea24334f0beb78cd46f492bf8978a60d"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_6.json"
+hash = "416139b40483bc3daf72335521e1a6a762d25079990a3920472dda105aeacb54"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_7.json"
+hash = "32244af59b3cdaff821b12523e74406143e1a56ce9418146638b2cc3dd9bc7b0"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_8.json"
+hash = "72a20e625f896ee9fadf6e89649330f1521896ff9d8df3e5bfd857bf2fd3a9ef"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/botania/recipes/mushroom_9.json"
+hash = "849a1fd0868a65848335855eaa172636eb29d2811463e6e55ab072fc6e2422a8"
+
+[[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
 hash = "f1213873377d208287ab10ddba35ed57c35a108fbfe5368d228e86a3a4310ef0"
 
@@ -1030,7 +1094,7 @@ hash = "480697ae74306cdcd17eed12a34795b7856f00d183d06ce69fd0fbf046c54c2e"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "5a46729d62732b11ac35a5cadbef7f79b8479e5ac6908010ee5af3a81271db4b"
+hash = "21639e319b3b80048c72ff1d3f99600f60687aae3f2f534284c309d2a6b2228c"
 
 [[files]]
 file = "config/savage_and_ravage-client.toml"
