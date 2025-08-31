@@ -38,7 +38,7 @@
       "blacklist": false
     },
     "hardcoreLimbo": false,
-    "limboReturnDistanceMax": 5000,
+    "limboReturnDistanceMax": 1,
     "limboReturnDistanceMin": 0,
     "decaySurroundings": true,
     "tryPlayerBedSpawn": false,
