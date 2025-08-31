@@ -457,6 +457,10 @@ file = "config/mantle-client.toml"
 hash = "389214da9d59c6eefda893b2b5a20d4afd53eca6ea41c9e1f7a72fc2ad782fec"
 
 [[files]]
+file = "config/metalborn-common.toml"
+hash = "153aa7a5b573d6d7a20da9345347d2d852b753dd16a06514b8af87517cbfcae4"
+
+[[files]]
 file = "config/mna-client.toml"
 hash = "f3f73a9442e92985e7f7216b0240a32388383950fdc67fce5826a5f10aa2fd9b"
 

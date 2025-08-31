@@ -461,6 +461,10 @@ file = "config/lootr-common.toml"
 hash = "b26ca5b04be80d765070f57969c621f93c6f108f946d9623fdf8e695d8855960"
 
 [[files]]
+file = "config/metalborn-common.toml"
+hash = "153aa7a5b573d6d7a20da9345347d2d852b753dd16a06514b8af87517cbfcae4"
+
+[[files]]
 file = "config/mna-client.toml"
 hash = "f3f73a9442e92985e7f7216b0240a32388383950fdc67fce5826a5f10aa2fd9b"
 
