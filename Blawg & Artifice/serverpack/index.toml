@@ -174,7 +174,7 @@ hash = "ac4fad73b20151ee9f0de09dcc137310e5dcb44b68164c1d739eb562de848992"
 
 [[files]]
 file = "config/caverns_and_chasms-common.toml"
-hash = "2697f81d15401de3729b765a4f5e80095e70710cfa4236c1e280cfaa9d1471fd"
+hash = "1b75685af685bda447ce4e7ef81693b8f1e24ff53904bd050dafb6981631784d"
 
 [[files]]
 file = "config/chimes-client.toml"
@@ -629,7 +629,7 @@ file = "config/paxi/datapacks/Blartifice Tweaks/data/neapolitan/recipes/milk/mil
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/paxi/datapacks/Blartifice Tweaks/data/quark/recipes/building/crafting/chest/mixed_chest.json"
+file = "config/paxi/datapacks/Blartifice Tweaks/data/quark/recipes/building/crafting/chests/mixed_chest.json"
 hash = "842868e9b5a662aa8416c7e86085ddb16ef69ba1e362cb098a725823492a606b"
 
 [[files]]
