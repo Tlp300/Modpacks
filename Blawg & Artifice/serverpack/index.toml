@@ -637,6 +637,10 @@ file = "config/paxi/datapacks/Blartifice Tweaks/data/quark/recipes/building/craf
 hash = "842868e9b5a662aa8416c7e86085ddb16ef69ba1e362cb098a725823492a606b"
 
 [[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/species/forge/biome_modifier/add_quake.json"
+hash = "f3e66371f6698153d0756e45ff39aacace99df17cefed0b795d3e06d21747986"
+
+[[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/pack.mcmeta"
 hash = "9e7a81ed3238d9a2b9022e506041575bc4051d3f26fc0104b4242c7ea302204f"
 

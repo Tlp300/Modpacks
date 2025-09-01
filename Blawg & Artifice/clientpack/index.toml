@@ -442,7 +442,7 @@ hash = "ff4d49e8887003f08adb512551c17ad62cbc8734fe20103da590a92e5675c9e9"
 
 [[files]]
 file = "config/lmft.json"
-hash = "4846032c4ea16277b5ba5622f77017472c15b6b23a60fc144c3e2959f91f6ee9"
+hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/lootr-client.toml"
@@ -631,6 +631,10 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/quark/recipes/building/crafting/chests/mixed_chest.json"
 hash = "842868e9b5a662aa8416c7e86085ddb16ef69ba1e362cb098a725823492a606b"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/species/forge/biome_modifier/add_quake.json"
+hash = "f3e66371f6698153d0756e45ff39aacace99df17cefed0b795d3e06d21747986"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/pack.mcmeta"
