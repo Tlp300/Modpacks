@@ -1727,6 +1727,11 @@ hash = "64e8143e1b158f1eb3ead424853951af3b9db0907a8e5b47da61048943038b29"
 metafile = true
 
 [[files]]
+file = "mods/thaumon.pw.toml"
+hash = "4dcb6364eb099e043d81c42583cf9a8496a97ef32a235a204cf652aaf9e13631"
+metafile = true
+
+[[files]]
 file = "mods/the-magic-mirror.pw.toml"
 hash = "4996f2ee9447bb293d2441ad95a2da74d0766adcc8f5aec775088ad8cd967e94"
 metafile = true
