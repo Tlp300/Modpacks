@@ -618,7 +618,7 @@ hash = "6fd9a5ae3fbe43bac9701470419d8a45f46e7650e6986d17acf6624fab6368c3"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/mna/tags/items/arcane_furnace_doubling_blacklist.json"
-hash = "2b62f843cf59b193c0cb11b4b11b0bb64d0489bbce4e6876a6a3b56b3cfc3eef"
+hash = "9ea1a340a0feb8ac4c21bf4cda81f063dadb90a79cf1cd681ecac1db72a4b416"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/neapolitan/recipes/cake.json"
