@@ -84,7 +84,7 @@ brimstonePerHeart = 50
 	#Range: > 100
 	rtpRange = 5000
 	#Should players be allowed to apply any enchantment on a Projection Rune at the Runic Anvil regardless of their tier?
-	projectionEnchantAnything = false
+	projectionEnchantAnything = true
 	#What magnitudes of break should map to what tools? The number set on magnitude will determine the tool material simulated.
 	breakMapping = ["minecraft:stone", "minecraft:iron", "minecraft:diamond"]
 	#How much complexity should Tier 5 allow in spells?

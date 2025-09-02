@@ -1198,7 +1198,7 @@ hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
 file = "defaultconfigs/mna-general.toml"
-hash = "fe2ce09bdc10511d2c197801a78c5e9acbe1d78d957c3f87069b42980bfc465c"
+hash = "9d147838bd8b7a379b1380de8ae16550a37e8694aa5fb0cb63db7b6482afb55f"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
