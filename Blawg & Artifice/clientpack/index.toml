@@ -646,7 +646,7 @@ hash = "9e7a81ed3238d9a2b9022e506041575bc4051d3f26fc0104b4242c7ea302204f"
 
 [[files]]
 file = "config/paxi/datapacks/Construct Harvest Fix/data/mna/tags/blocks/construct_harvestables.json"
-hash = "15d45e3d2bb46d187fc4daa05820ea0b777bbe898a3a9edf78606fdc500d750c"
+hash = "7052cb2728df15efed1ce292a108b21d377ad6f3cd72fbfd4a3a0652cf50f153"
 
 [[files]]
 file = "config/paxi/datapacks/Construct Harvest Fix/pack.mcmeta"

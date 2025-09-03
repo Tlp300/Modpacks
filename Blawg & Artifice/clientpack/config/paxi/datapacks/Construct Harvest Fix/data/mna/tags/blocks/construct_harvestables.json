@@ -8,6 +8,8 @@
   	"minecraft:nether_wart",
 	"farmersdelight:tomatoes",
 	"farmersdelight:brown_mushroom_colony",
-	"farmersdelight:red_mushroom_colony"
+	"farmersdelight:red_mushroom_colony",
+	"mynethersdelight:crimson_fungus_colony",
+	"mynethersdelight:warped_fungus_colony"
   ]
 }
