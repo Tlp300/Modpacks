@@ -1,0 +1,8 @@
+{
+  "id": "species:chimerite",
+  "item": "mna:chimerite_gem",
+  "block": "minecraft:diamond_ore",
+  "maxCount": 9,
+  "spawnWeight": 30,
+  "maxSpawnHeight": 32
+}

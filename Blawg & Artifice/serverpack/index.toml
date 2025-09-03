@@ -641,6 +641,10 @@ file = "config/paxi/datapacks/Blartifice Tweaks/data/species/forge/biome_modifie
 hash = "f3e66371f6698153d0756e45ff39aacace99df17cefed0b795d3e06d21747986"
 
 [[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/species/gameplay/limpet_ores/chimerite/chimerite.json"
+hash = "56fd7a3f2a32e6daec2d58b23dca437be79bd131dcd876a256daf9419b7c9c01"
+
+[[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/pack.mcmeta"
 hash = "9e7a81ed3238d9a2b9022e506041575bc4051d3f26fc0104b4242c7ea302204f"
 
@@ -1087,6 +1091,14 @@ hash = "c34a0ee59d11d3042462ac9c0d3e54765515b62a51a97ff2758db76c4e1ab0a0"
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blartifice Assets/assets/species/textures/entity/limpet/ores/chimerite.png"
+hash = "650d2fce86d6d468df179464eb674797679449f9132f4d078d1e090d86308ae9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blartifice Assets/pack.mcmeta"
+hash = "e62930ae0a55de0d1b1e00c83d74290d05295034797cf2e08f8d7c909d7f61c2"
 
 [[files]]
 file = "config/paxi/resourcepacks/Magixperiments Assets/assets/magixperiments/lang/en_us.json"
