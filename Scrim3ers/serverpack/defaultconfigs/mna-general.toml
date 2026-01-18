@@ -178,4 +178,3 @@ brimstonePerHeart = 50
 	#How long should need to pass before undead will gain full souls again from sleeping in a coffin?
 	#Range: > 0
 	undeadCoffinSleepDelay = 18000
-
