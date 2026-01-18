@@ -55,7 +55,7 @@ brimstonePerHeart = 50
 	#Should summons be able to be right clicked with items to interact?  For example, shearing sheep or milking cows that have been summoned.
 	summonInteractions = true
 	#If true, the Ritual of Arcana will instantly rote spells upon completion, in addition to giving you the spell..
-	liteMode = false
+	liteMode = true
 	#By default, jump boost in vanilla is, to put it politely, lacking.  If this is enabled, jumping while under the effects of jump boost will apply additional forward momentum.  This does not stack with the infernal armor set bonus.
 	fixJumpBoost = true
 	#Set this to true to disable new villager profession registration.  This allows compatibility with Bukkit.  Note that you'll need to ensure the Codex Arcana is obtainable through different means!
@@ -65,7 +65,7 @@ brimstonePerHeart = 50
 	spellDamageMultiplier = 1.0
 	#How much XP should it cost to undo a mistake when runescribing?  Regardless of this value, it will always consume clay.
 	#Range: 0 ~ 9999
-	runescribeUndoXP = 35
+	runescribeUndoXP = 50
 	#How many sigils should be allowed per player?
 	#Range: 1 ~ 100
 	sigilsLimit = 5
@@ -82,7 +82,7 @@ brimstonePerHeart = 50
 	#Range: > 100
 	rtpRange = 5000
 	#Should players be allowed to apply any enchantment on a Projection Rune at the Runic Anvil regardless of their tier?
-	projectionEnchantAnything = true
+	projectionEnchantAnything = false
 	#What magnitudes of break should map to what tools? The number set on magnitude will determine the tool material simulated.
 	breakMapping = ["minecraft:stone", "minecraft:iron", "minecraft:diamond"]
 	#How much complexity should Tier 5 allow in spells?
@@ -147,7 +147,7 @@ brimstonePerHeart = 50
 #Mana and Artifice // Artifact Options
 [ma_artifact_options]
 	#By default meteor jump will follow the mobGriefing rule.  Set this to true to override that regardless of the game rule.
-	meteorJumpDestruction = true
+	meteorJumpDestruction = false
 	#How many reflect charges the Spellweaver armor set has
 	#Range: 0 ~ 99
 	councilArmorReflectCharges = 3

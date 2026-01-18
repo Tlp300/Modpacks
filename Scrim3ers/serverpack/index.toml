@@ -1186,7 +1186,7 @@ hash = "d94808a5a9f84a53678b544bb21b14ecb2efddc80c17d212e5e27ad43bd081f4"
 
 [[files]]
 file = "defaultconfigs/mna-general.toml"
-hash = "c193e059da4ee2a5a5e541169b666f0625f6e0f2d5f218be6d917e640fd9cec7"
+hash = "23a141e3cb42f673127d0e77895434216887aab980eddb0381d8321ccc06a593"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
