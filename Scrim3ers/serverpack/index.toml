@@ -1394,6 +1394,11 @@ hash = "90484736d203b7fcc858d6f87425bd333326311aa593c75cc53ffb09529d7472"
 metafile = true
 
 [[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "78b2f42bb5e8605ed10bee5b9f2ae67505d7a4bebbca05c1f5da8a6456ded5f6"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-delight.pw.toml"
 hash = "008290999ef17b875db91622f60abd8d2ddbea5ccccca5f23050f5e3836b7cdc"
 metafile = true
@@ -1689,6 +1694,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "371b68e257eaca322ca4e95f4aa8d95441d84110b69243dda818f743a0111ba5"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
 metafile = true
 
 [[files]]
