@@ -1,0 +1,14 @@
+{ 
+  "replace": true,
+  "values": [
+    "thermal:steel_ingot",
+    "thermal:tin_ingot",
+    "thermal:lead_ingot",
+    "railcraft:zinc_ingot",
+    "railcraft:brass_ingot",
+    "thermal:invar_ingot",
+    "thermal:bronze_ingot",
+    "thermal:nickel_ingot",
+    "thermal:silver_ingot"
+  ]
+}

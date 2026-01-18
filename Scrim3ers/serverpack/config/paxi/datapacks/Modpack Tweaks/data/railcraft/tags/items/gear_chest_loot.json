@@ -1,0 +1,14 @@
+{ 
+  "replace": true,
+  "values": [
+    "thermal:steel_gear",
+    "thermal:tin_gear",
+    "thermal:lead_gear",
+    "railcraft:zinc_gear",
+    "railcraft:brass_gear",
+    "thermal:invar_gear",
+    "thermal:bronze_gear",
+    "thermal:nickel_gear",
+    "thermal:silver_gear"
+  ]
+}

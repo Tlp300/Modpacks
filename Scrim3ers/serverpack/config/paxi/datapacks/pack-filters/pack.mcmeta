@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "description": "ough im filtering",
+    "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "environmental",
+        "path": "forge/biome_modifier/add_spawn/deer"
+      },
+      {
+        "namespace": "environmental",
+        "path": "forge/biome_modifier/add_spawn/deer_meadow"
+      }
+    ]
+  }
+}

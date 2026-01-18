@@ -1,0 +1,10 @@
+[
+  {
+    "mob": "minecraft:drowned",
+	"helditem": { 
+	"empty": true
+	},
+	"when": "onjoin",
+    "result": "allow"
+  }
+]

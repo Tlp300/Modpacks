@@ -1,0 +1,13 @@
+name = "Scrim3ers"
+author = "Tlp"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9a8090a6a0249fe0dcde51317b31423678f038a9cd550777892c9c6671abbdfe"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

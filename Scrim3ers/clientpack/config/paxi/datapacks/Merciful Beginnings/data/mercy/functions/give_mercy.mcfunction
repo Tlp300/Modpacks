@@ -1,0 +1,1 @@
+execute as @s run effect give @s magichem:suns_grace 5400 0 true

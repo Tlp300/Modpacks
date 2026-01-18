@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "mobees:zinc_bit",
+        "mobees:zinc_bit",
+        "mobees:zinc_bit",
+		"mobees:zinc_bit",
+		"mobees:zinc_bit",
+		"mobees:zinc_bit",
+		"mobees:zinc_bit",
+		"mobees:zinc_bit"
+    ],
+    "result": {
+        "id": "railcraft:zinc_ingot",
+        "count": 1
+    }
+}

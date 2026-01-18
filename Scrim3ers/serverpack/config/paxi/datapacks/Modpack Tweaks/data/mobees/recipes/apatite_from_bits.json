@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "mobees:apatite_bit",
+        "mobees:apatite_bit",
+        "mobees:apatite_bit",
+		"mobees:apatite_bit",
+		"mobees:apatite_bit",
+		"mobees:apatite_bit",
+		"mobees:apatite_bit",
+		"mobees:apatite_bit"
+    ],
+    "result": {
+        "id": "thermal:apatite",
+        "count": 1
+    }
+}

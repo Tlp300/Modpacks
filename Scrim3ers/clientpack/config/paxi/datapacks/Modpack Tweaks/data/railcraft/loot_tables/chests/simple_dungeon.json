@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "railcraft:steel_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "railcraft:steel_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "railcraft:steel_pickaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "railcraft:steel_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "railcraft:steel_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "railcraft:steel_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "railcraft:steel_chestplate"
+        }
+      ],
+      "name": "railcraft_general",
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 1.0,
+        "min": 0.0
+      }
+    }
+  ],
+  "random_sequence": "railcraft:chests/simple_dungeon"
+}

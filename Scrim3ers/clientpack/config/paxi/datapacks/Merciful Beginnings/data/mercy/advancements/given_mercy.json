@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "firstjoin": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "function": "mercy:give_mercy"
+  }
+}

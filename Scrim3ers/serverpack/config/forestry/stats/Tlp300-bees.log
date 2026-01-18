@@ -1,0 +1,155 @@
+# forestry
+# 2.8.0
+Beekeeping statistics for Tlp300 on 1/1/26, 3:29 AM:
+
+
+Discovered:
+Queen:		0
+Princess:	0
+Drone:		0
+
+Species (136):
+--------------
+translation{key='for.chat.command.forestry.stats.save.key.discovered.symbol', args=[]}: Discovered
+translation{key='for.chat.command.forestry.stats.save.key.blacklisted.symbol', args=[]}: Blacklisted
+translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]}: Not counted for the species total
+
+[ translation{key='for.chat.command.forestry.stats.save.key.discovered.symbol', args=[]} ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	UID                                      translation{key='for.gui.species', args=[]} Authority           
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ empty ] [ empty ]	forestry:bee_forest                      translation{key='allele.forestry.bee_species.bee_forest', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_meadows                     translation{key='allele.forestry.bee_species.bee_meadows', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_common                      translation{key='allele.forestry.bee_species.bee_common', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_cultivated                  translation{key='allele.forestry.bee_species.bee_cultivated', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_noble                       translation{key='allele.forestry.bee_species.bee_noble', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_majestic                    translation{key='allele.forestry.bee_species.bee_majestic', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_imperial                    translation{key='allele.forestry.bee_species.bee_imperial', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_diligent                    translation{key='allele.forestry.bee_species.bee_diligent', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_unweary                     translation{key='allele.forestry.bee_species.bee_unweary', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_industrious                 translation{key='allele.forestry.bee_species.bee_industrious', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_sinister                    translation{key='allele.forestry.bee_species.bee_sinister', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_fiendish                    translation{key='allele.forestry.bee_species.bee_fiendish', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_demonic                     translation{key='allele.forestry.bee_species.bee_demonic', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_modest                      translation{key='allele.forestry.bee_species.bee_modest', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_frugal                      translation{key='allele.forestry.bee_species.bee_frugal', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_austere                     translation{key='allele.forestry.bee_species.bee_austere', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_tropical                    translation{key='allele.forestry.bee_species.bee_tropical', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_exotic                      translation{key='allele.forestry.bee_species.bee_exotic', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_edenic                      translation{key='allele.forestry.bee_species.bee_edenic', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_monastic                    translation{key='allele.forestry.bee_species.bee_monastic', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_secluded                    translation{key='allele.forestry.bee_species.bee_secluded', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_hermitic                    translation{key='allele.forestry.bee_species.bee_hermitic', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_shulking                    translation{key='allele.forestry.bee_species.bee_shulking', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_ended                       translation{key='allele.forestry.bee_species.bee_ended', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_spectral                    translation{key='allele.forestry.bee_species.bee_spectral', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_phantasmal                  translation{key='allele.forestry.bee_species.bee_phantasmal', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_wintry                      translation{key='allele.forestry.bee_species.bee_wintry', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_icy                         translation{key='allele.forestry.bee_species.bee_icy', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_glacial                     translation{key='allele.forestry.bee_species.bee_glacial', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_marshy                      translation{key='allele.forestry.bee_species.bee_marshy', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_miry                        translation{key='allele.forestry.bee_species.bee_miry', args=[]} MysteriousAges      
+[ empty ] [ empty ]	forestry:bee_boggy                       translation{key='allele.forestry.bee_species.bee_boggy', args=[]} MysteriousAges      
+[ empty ] [ empty ]	forestry:bee_savanna                     translation{key='allele.forestry.bee_species.bee_savanna', args=[]} EnderiumSmith       
+[ empty ] [ empty ]	forestry:bee_argil                       translation{key='allele.forestry.bee_species.bee_argil', args=[]} EnderiumSmith       
+[ empty ] [ empty ]	forestry:bee_pride                       translation{key='allele.forestry.bee_species.bee_pride', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_steadfast                   translation{key='allele.forestry.bee_species.bee_steadfast', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_valiant                     translation{key='allele.forestry.bee_species.bee_valiant', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_heroic                      translation{key='allele.forestry.bee_species.bee_heroic', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_lush                        translation{key='allele.forestry.bee_species.bee_lush', args=[]} EnderiumSmith       
+[ empty ] [ empty ]	forestry:bee_verdant                     translation{key='allele.forestry.bee_species.bee_verdant', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_luxuriant                   translation{key='allele.forestry.bee_species.bee_luxuriant', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_kleptoplastic               translation{key='allele.forestry.bee_species.bee_kleptoplastic', args=[]} EnderiumSmith       
+[ empty ] [ empty ]	forestry:bee_photosynthetic              translation{key='allele.forestry.bee_species.bee_photosynthetic', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_autotrophic                 translation{key='allele.forestry.bee_species.bee_autotrophic', args=[]} EnderiumSmith       
+[ empty ] [ empty ]	forestry:bee_aquatic                     translation{key='allele.forestry.bee_species.bee_aquatic', args=[]} EnderiumSmith       
+[ empty ] [ empty ]	forestry:bee_pirate                      translation{key='allele.forestry.bee_species.bee_pirate', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_prismatic                   translation{key='allele.forestry.bee_species.bee_prismatic', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_abyssal                     translation{key='allele.forestry.bee_species.bee_abyssal', args=[]} EnderiumSmith       
+[ empty ] [ empty ]	forestry:bee_embittered                  translation{key='allele.forestry.bee_species.bee_embittered', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_spiteful                    translation{key='allele.forestry.bee_species.bee_spiteful', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_seething                    translation{key='allele.forestry.bee_species.bee_seething', args=[]} EnderiumSmith       
+[ empty ] [ empty ]	forestry:bee_warped                      translation{key='allele.forestry.bee_species.bee_warped', args=[]} EnderiumSmith       
+[ empty ] [ empty ]	forestry:bee_zombified                   translation{key='allele.forestry.bee_species.bee_zombified', args=[]} EnderiumSmith       
+[ empty ] [ empty ]	forestry:bee_sculk                       translation{key='allele.forestry.bee_species.bee_sculk', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_rural                       translation{key='allele.forestry.bee_species.bee_rural', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_farmerly                    translation{key='allele.forestry.bee_species.bee_farmerly', args=[]} MysteriousAges      
+[ empty ] [ empty ]	forestry:bee_agrarian                    translation{key='allele.forestry.bee_species.bee_agrarian', args=[]} MysteriousAges      
+[ empty ] [ empty ]	forestry:bee_primeval                    translation{key='allele.forestry.bee_species.bee_primeval', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_anachrone                   translation{key='allele.forestry.bee_species.bee_anachrone', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_relic                       translation{key='allele.forestry.bee_species.bee_relic', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_vanilla                     translation{key='allele.forestry.bee_species.bee_vanilla', args=[]} EnderiumSmith       
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_leporine                    translation{key='allele.forestry.bee_species.bee_leporine', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_merry                       translation{key='allele.forestry.bee_species.bee_merry', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_tipsy                       translation{key='allele.forestry.bee_species.bee_tipsy', args=[]} Sengir              
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	forestry:bee_tricky                      translation{key='allele.forestry.bee_species.bee_tricky', args=[]} Sengir              
+[ empty ] [ empty ]	forestry:bee_patriotic                   translation{key='allele.forestry.bee_species.bee_patriotic', args=[]} TheDarkColour       
+[ empty ] [ empty ]	mobees:bee_rocky                         translation{key='allele.forestry.bee_species.mobees.bee_rocky', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_stone                         translation{key='allele.forestry.bee_species.mobees.bee_stone', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_tolerant                      translation{key='allele.forestry.bee_species.mobees.bee_tolerant', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_mineral                       translation{key='allele.forestry.bee_species.mobees.bee_mineral', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_resilient                     translation{key='allele.forestry.bee_species.mobees.bee_resilient', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_coal                          translation{key='allele.forestry.bee_species.mobees.bee_coal', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_rusty                         translation{key='allele.forestry.bee_species.mobees.bee_rusty', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_copper                        translation{key='allele.forestry.bee_species.mobees.bee_copper', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_tin                           translation{key='allele.forestry.bee_species.mobees.bee_tin', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_nickel                        translation{key='allele.forestry.bee_species.mobees.bee_nickel', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_lead                          translation{key='allele.forestry.bee_species.mobees.bee_lead', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_zinc                          translation{key='allele.forestry.bee_species.mobees.bee_zinc', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_silver                        translation{key='allele.forestry.bee_species.mobees.bee_silver', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_iron                          translation{key='allele.forestry.bee_species.mobees.bee_iron', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_gold                          translation{key='allele.forestry.bee_species.mobees.bee_gold', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_lapis                         translation{key='allele.forestry.bee_species.mobees.bee_lapis', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_apatite                       translation{key='allele.forestry.bee_species.mobees.bee_apatite', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_redstone                      translation{key='allele.forestry.bee_species.mobees.bee_redstone', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_budding                       translation{key='allele.forestry.bee_species.mobees.bee_budding', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_amethyst                      translation{key='allele.forestry.bee_species.mobees.bee_amethyst', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_crystalline                   translation{key='allele.forestry.bee_species.mobees.bee_crystalline', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_emerald                       translation{key='allele.forestry.bee_species.mobees.bee_emerald', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_diamond                       translation{key='allele.forestry.bee_species.mobees.bee_diamond', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_marble                        translation{key='allele.forestry.bee_species.mobees.bee_marble', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_sculpted                      translation{key='allele.forestry.bee_species.mobees.bee_sculpted', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_classical                     translation{key='allele.forestry.bee_species.mobees.bee_classical', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_harmonic                      translation{key='allele.forestry.bee_species.mobees.bee_harmonic', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_divine                        translation{key='allele.forestry.bee_species.mobees.bee_divine', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_chromatic                     translation{key='allele.forestry.bee_species.mobees.bee_chromatic', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_lively                        translation{key='allele.forestry.bee_species.mobees.bee_lively', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_excited                       translation{key='allele.forestry.bee_species.mobees.bee_excited', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_energetic                     translation{key='allele.forestry.bee_species.mobees.bee_energetic', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_crimson                       translation{key='allele.forestry.bee_species.mobees.bee_crimson', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_glowstone                     translation{key='allele.forestry.bee_species.mobees.bee_glowstone', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_desolate                      translation{key='allele.forestry.bee_species.mobees.bee_desolate', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_devastated                    translation{key='allele.forestry.bee_species.mobees.bee_devastated', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_scrap                         translation{key='allele.forestry.bee_species.mobees.bee_scrap', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_netherite                     translation{key='allele.forestry.bee_species.mobees.bee_netherite', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_withered                      translation{key='allele.forestry.bee_species.mobees.bee_withered', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_spore                         translation{key='allele.forestry.bee_species.mobees.bee_spore', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_germinated                    translation{key='allele.forestry.bee_species.mobees.bee_germinated', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_fungal                        translation{key='allele.forestry.bee_species.mobees.bee_fungal', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_witchy                        translation{key='allele.forestry.bee_species.mobees.bee_witchy', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_cursed                        translation{key='allele.forestry.bee_species.mobees.bee_cursed', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_camouflaged                   translation{key='allele.forestry.bee_species.mobees.bee_camouflaged', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_disguised                     translation{key='allele.forestry.bee_species.mobees.bee_disguised', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_bee                           translation{key='allele.forestry.bee_species.mobees.bee_bee', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_alpine                        translation{key='allele.forestry.bee_species.mobees.bee_alpine', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_hiker                         translation{key='allele.forestry.bee_species.mobees.bee_hiker', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_pilgrim                       translation{key='allele.forestry.bee_species.mobees.bee_pilgrim', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_spirited                      translation{key='allele.forestry.bee_species.mobees.bee_spirited', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_mysterious                    translation{key='allele.forestry.bee_species.mobees.bee_mysterious', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_unusual                       translation{key='allele.forestry.bee_species.mobees.bee_unusual', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_ephemeral                     translation{key='allele.forestry.bee_species.mobees.bee_ephemeral', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_forlorn                       translation{key='allele.forestry.bee_species.mobees.bee_forlorn', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_soulful                       translation{key='allele.forestry.bee_species.mobees.bee_soulful', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_arcane                        translation{key='allele.forestry.bee_species.mobees.bee_arcane', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_bony                          translation{key='allele.forestry.bee_species.mobees.bee_bony', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_creepy                        translation{key='allele.forestry.bee_species.mobees.bee_creepy', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_slimy                         translation{key='allele.forestry.bee_species.mobees.bee_slimy', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_phantom                       translation{key='allele.forestry.bee_species.mobees.bee_phantom', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_warden                        translation{key='allele.forestry.bee_species.mobees.bee_warden', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_shelled                       translation{key='allele.forestry.bee_species.mobees.bee_shelled', args=[]} noodlepfp           
+[ empty ] [ translation{key='for.chat.command.forestry.stats.save.key.notCounted.symbol', args=[]} ]	mobees:bee_turtle                        translation{key='allele.forestry.bee_species.mobees.bee_turtle', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_drowned                       translation{key='allele.forestry.bee_species.mobees.bee_drowned', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_nautilus                      translation{key='allele.forestry.bee_species.mobees.bee_nautilus', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_pupil                         translation{key='allele.forestry.bee_species.mobees.bee_pupil', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_studious                      translation{key='allele.forestry.bee_species.mobees.bee_studious', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_erudite                       translation{key='allele.forestry.bee_species.mobees.bee_erudite', args=[]} noodlepfp           
+[ empty ] [ empty ]	mobees:bee_sage                          translation{key='allele.forestry.bee_species.mobees.bee_sage', args=[]} noodlepfp           

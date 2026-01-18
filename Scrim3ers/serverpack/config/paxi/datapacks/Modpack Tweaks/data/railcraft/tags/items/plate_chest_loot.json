@@ -1,0 +1,14 @@
+{ 
+  "replace": true,
+  "values": [
+    "thermal:steel_plate",
+    "thermal:tin_plate",
+    "thermal:lead_plate",
+    "railcraft:zinc_plate",
+    "railcraft:brass_plate",
+    "thermal:invar_plate",
+    "thermal:bronze_plate",
+    "thermal:nickel_plate",
+    "thermal:silver_plate"
+  ]
+}

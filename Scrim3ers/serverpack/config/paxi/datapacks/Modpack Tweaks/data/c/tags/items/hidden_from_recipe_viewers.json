@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+		"forestry:tin_ore",
+		"forestry:deepslate_tin_ore",
+		
+		"forestry:ingot_bronze",
+		"forestry:gear_bronze",
+		"forestry:resource_storage_bronze",
+		
+		"forestry:apatite_ore",
+		"forestry:deepslate_apatite_ore",
+		"forestry:apatite",
+		"forestry:resource_storage_apatite",
+		"forestry:crated_apatite",
+		
+		"thermal:strawberry",
+		"thermal:strawberry_seeds",
+		"thermal:strawberry_block",
+		
+		"thermal:flax",
+		"thermal:flax_seeds",
+		"thermal:flax_block",
+		
+		"thermal:tomato",
+		"thermal:tomato_seeds",
+		"thermal:tomato_block",
+		
+		"thermal:rice",
+		"thermal:rice_seeds",
+		"thermal:rice_block",
+		
+		"thermal:onion",
+		"thermal:onion_seeds",
+		"thermal:onion_block",
+		
+		"thermal:tea",
+		"thermal:tea_seeds",
+		"thermal:tea_block"
+  ]
+}
