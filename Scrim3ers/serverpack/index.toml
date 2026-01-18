@@ -690,7 +690,7 @@ hash = "9efab76e193a36b50402d6f4b5c040d564069dbe90db35e703bbd488ea0a8760"
 
 [[files]]
 file = "config/paxi/datapacks/Modpack Tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "fb1c07f852902abfa6387e4df27959fa8fcca38a1145cb6ad3b2a2e1a71832b4"
+hash = "83b825ff07c3842b78feedc23f2d00a25b4dba2d4345e8e7f33529ec1a830010"
 
 [[files]]
 file = "config/paxi/datapacks/Modpack Tweaks/data/caverns_and_chasms/recipes/sanguine_block.json"

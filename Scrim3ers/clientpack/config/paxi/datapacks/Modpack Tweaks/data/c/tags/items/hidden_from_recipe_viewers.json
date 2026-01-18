@@ -36,6 +36,8 @@
 		
 		"thermal:tea",
 		"thermal:tea_seeds",
-		"thermal:tea_block"
+		"thermal:tea_block",
+		
+		"dungeonsdelight:chicken_jockey_sandwich"
   ]
 }
