@@ -785,7 +785,7 @@ file = "config/paxi/datapacks/Modpack Tweaks/data/railcraft/loot_tables/chests/s
 hash = "8fb50a0931d2f6d26e53bfafce628229899972e5f020947aa9961b05dbbab115"
 
 [[files]]
-file = "config/paxi/datapacks/Modpack Tweaks/data/railcraft/recipes/items/brass_ingot_crafted_with_ingots.json"
+file = "config/paxi/datapacks/Modpack Tweaks/data/railcraft/recipes/brass_ingot_crafted_with_ingots.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
