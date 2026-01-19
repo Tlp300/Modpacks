@@ -1487,7 +1487,7 @@
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
 				[mobs.stonelings.spawn_config.biomes.biomes]
-					Biomes = []
+					Biomes = ["alexscaves:magnetic_caves", "alexscaves:primordial_caves", "alexscaves:toxic_caves", "alexscaves:abyssal_chasm", "alexscave:forlorn_hollows", "alexscaves:candy_cavity"]
 					"Is Blacklist" = true
 
 	[mobs.toretoise]
@@ -1521,7 +1521,7 @@
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
 				[mobs.toretoise.spawn_config.biomes.biomes]
-					Biomes = []
+					Biomes = ["alexscaves:magnetic_caves", "alexscaves:primordial_caves", "alexscaves:toxic_caves", "alexscaves:abyssal_chasm", "alexscave:forlorn_hollows", "alexscaves:candy_cavity"]
 					"Is Blacklist" = true
 
 	[mobs.wraith]
@@ -1944,7 +1944,7 @@
 
 	[oddities.totem_of_holding]
 		#Set this to false to remove the behaviour where totems destroy themselves if the player dies again.
-		"Dark Souls Mode" = true
+		"Dark Souls Mode" = false
 		#Totem will always spawn if the player killer is themselves.
 		"Spawn Totem on PVP Kill" = false
 		#Set this to true to make it so that if a totem is destroyed, the items it holds are destroyed alongside it rather than dropped
