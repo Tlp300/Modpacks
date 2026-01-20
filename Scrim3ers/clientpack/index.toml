@@ -502,7 +502,7 @@ hash = "edc63c687adeeb7abe45d2baeadb00492dd330194bbb54bf7e60936abb6fa9ab"
 
 [[files]]
 file = "config/goety/goety-spells.toml"
-hash = "1ad3d0decdfecacd5d7ef1ca6b71b97971f7609693c0facdd58200a8d2225027"
+hash = "b34649ff9bca1e4dba3ebd1b25089c6b021811795bd7e1924955d4e4afbb5206"
 
 [[files]]
 file = "config/goety/goety.toml"

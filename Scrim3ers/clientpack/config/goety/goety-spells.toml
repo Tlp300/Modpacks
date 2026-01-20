@@ -1734,7 +1734,7 @@
 [General]
 	#Multiplies the damage of spells by this amount in decimals, this will will be multiplied by 'spellDamageMultiplier', Default: 1.0
 	#Range: 0.0 ~ 1.7976931348623157E308
-	spellDamageMultiplierDecimal = 1.0
+	spellDamageMultiplierDecimal = 1.5
 	#Whether Servants are killed/dismissed by hitting them while crouching with a wand or staff, put 1 to make them change by right-clicking on them while crouching, put 2 to disable it, Default: 0
 	#Range: 0 ~ 2
 	ownerHitKill = 0
