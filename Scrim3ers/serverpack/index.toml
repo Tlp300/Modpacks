@@ -1656,6 +1656,11 @@ hash = "4249fb0a1922f50ca6d083b6f4dd4ae7a77d699bdb5171d21b5935016ad7b298"
 metafile = true
 
 [[files]]
+file = "mods/savethehotbar!.pw.toml"
+hash = "2808b5d0c8caee58f8e4551f63b937be3f3ca14feae2128fa6c0c91ff3f49161"
+metafile = true
+
+[[files]]
 file = "mods/sawmill.pw.toml"
 hash = "03df4d26153286220dd3e423d9682b90764ee827685e8e2969c74a9ee11a40e0"
 metafile = true
