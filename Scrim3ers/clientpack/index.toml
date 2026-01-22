@@ -1378,6 +1378,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "967c38265800a8b2353debf37ab919204a1f89e4a57e2e603b7a7de1d68c8956"
+metafile = true
+
+[[files]]
 file = "mods/create-compatible-storage.pw.toml"
 hash = "1656364454d2e9c9cd65bc0a729b30e67c23fd26566ff4135439a4196bc71f06"
 metafile = true
