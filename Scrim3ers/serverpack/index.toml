@@ -930,7 +930,7 @@ hash = "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "700f596e867a97d6c18ff10463002dd2635de17db5b979f64f63ef85da440b48"
+hash = "61186a36d159728dd2c1cbd91c3f5ea9f26bba89844699d4ab7183d58171dbd2"
 
 [[files]]
 file = "config/railcraft-client.toml"
@@ -1527,8 +1527,8 @@ hash = "a484a0a768e886244dab01dd9793d979ca5d57b8327f9f4caa36a3031fc46d63"
 metafile = true
 
 [[files]]
-file = "mods/magichem-0.5.2-pre14.jar"
-hash = "2661635d7c338ab53dfddd85bcf0145fe14a7eddea4bfc7e986329b4bf917591"
+file = "mods/magichem-0.5.2-pre15.jar"
+hash = "86ea0716e9f29505a5062c3a59bb4b8a606273c296901006c4353653561be072"
 
 [[files]]
 file = "mods/malum.pw.toml"
