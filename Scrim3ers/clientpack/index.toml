@@ -930,7 +930,7 @@ hash = "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "61186a36d159728dd2c1cbd91c3f5ea9f26bba89844699d4ab7183d58171dbd2"
+hash = "185a32fd9ae3e356a91004078c138734a2f89834c4f330cb2fc233509cbb9998"
 
 [[files]]
 file = "config/railcraft-client.toml"
