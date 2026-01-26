@@ -1170,7 +1170,7 @@ hash = "2b42195c2dac527e539e906e906fbaee90cb8edc2dd474f4c8755d047d01194f"
 
 [[files]]
 file = "config/xycraft/machines_common.toml"
-hash = "53ef4c32a0783056360a3f04a025e06ef3818d959e32fe853cd52c9895c25f8c"
+hash = "67568ea6042aedffbf0a98ca84739f1416c9b3a1fe5dbe9b90302267dfd3d206"
 
 [[files]]
 file = "config/yacl.json5"
