@@ -1527,8 +1527,8 @@ hash = "a484a0a768e886244dab01dd9793d979ca5d57b8327f9f4caa36a3031fc46d63"
 metafile = true
 
 [[files]]
-file = "mods/magichem-0.5.2-pre15.jar"
-hash = "86ea0716e9f29505a5062c3a59bb4b8a606273c296901006c4353653561be072"
+file = "mods/magichem-0.5.2-pre16.jar"
+hash = "f35a7bcf9520f74240125d673f4955efa2842427f6bc5bfed45303c41db7f359"
 
 [[files]]
 file = "mods/malum.pw.toml"
@@ -1837,7 +1837,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "4859a63c931c71c20ffacb1bfe7538bf2bac53f30b60f27273cc98393762971b"
+hash = "cfaaf30de594699a445a336ec491a204d0e1b16a8597d034e2e05df2b283fd97"
 metafile = true
 
 [[files]]

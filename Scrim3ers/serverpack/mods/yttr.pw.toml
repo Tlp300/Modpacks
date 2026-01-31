@@ -1,13 +1,13 @@
 name = "Yttr"
-filename = "yttr-9.20.929.jar"
+filename = "yttr-9.20.947.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ZCLrWdGm/versions/H9DE6jyr/yttr-9.20.947.jar"
 hash-format = "sha1"
-hash = "a9803abd9fc57ab320477bab5c6444e119cbd2f1"
-mode = "metadata:curseforge"
+hash = "84c3f6e0464069fe08a5e9e71b63d33bf66274c1"
 
 [update]
-[update.curseforge]
-file-id = 7367382
-project-id = 467267
+[update.modrinth]
+mod-id = "ZCLrWdGm"
+version = "H9DE6jyr"
