@@ -1527,8 +1527,8 @@ hash = "a484a0a768e886244dab01dd9793d979ca5d57b8327f9f4caa36a3031fc46d63"
 metafile = true
 
 [[files]]
-file = "mods/magichem-0.5.2-pre17.jar"
-hash = "0cb81903ece2deecb08c21f662e234c734c92797dcd1e0a13aea71ce0d13849a"
+file = "mods/magichem-0.5.2-pre18.jar"
+hash = "c3bbd386e8603e134d332457e2d424fe39e20ea6c3c6cedbacb54c79aec4cb17"
 
 [[files]]
 file = "mods/malum.pw.toml"
