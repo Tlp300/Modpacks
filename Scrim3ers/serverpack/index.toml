@@ -1049,14 +1049,6 @@ file = "config/transition.json"
 hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
 
 [[files]]
-file = "config/treechop-client.toml"
-hash = "ae1995c3bac2a03f767a2c8da6af75364f8a0fc8de6bd82334d05191d97bdc79"
-
-[[files]]
-file = "config/treechop-common.toml"
-hash = "f6cdfc2e6af593472da0384bf47f82279d4916acf1597624ea70c59db547c8e9"
-
-[[files]]
 file = "config/trender.json"
 hash = "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2"
 
@@ -1527,8 +1519,8 @@ hash = "a484a0a768e886244dab01dd9793d979ca5d57b8327f9f4caa36a3031fc46d63"
 metafile = true
 
 [[files]]
-file = "mods/magichem-0.5.2-pre18.jar"
-hash = "c3bbd386e8603e134d332457e2d424fe39e20ea6c3c6cedbacb54c79aec4cb17"
+file = "mods/magichem-0.5.2-pre19.jar"
+hash = "4998bc64bc16c653e860fabd340acfd53703bb92aef7fdb66f440cc2dc5c0726"
 
 [[files]]
 file = "mods/malum.pw.toml"
@@ -1791,11 +1783,6 @@ hash = "51e82d9320effbd610ccfe4571c048c7d0f9c98362b9884faabfaa6f63aa9737"
 metafile = true
 
 [[files]]
-file = "mods/treechop.pw.toml"
-hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
-metafile = true
-
-[[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "62ca870c6d8ce9ac3721d25e4f283d0916f0fd673260c497e109b03ad7b304fe"
 metafile = true
@@ -1837,7 +1824,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "cfaaf30de594699a445a336ec491a204d0e1b16a8597d034e2e05df2b283fd97"
+hash = "87ece619394ab023fe8c74a5ba118dc29512e99ba87626ef16f8a3511f6eb052"
 metafile = true
 
 [[files]]
