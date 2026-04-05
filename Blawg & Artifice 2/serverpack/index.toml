@@ -606,7 +606,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/paxi/datapacks/Content Filtering/pack.mcmeta"
-hash = "f1ad00ff0036dc04b7eab063b0bc7808e124f1ba791f048dff5dc941d201796c"
+hash = "a0832a41aa736f4af48f090f2312778cc86d1381c6ba110ac72ad2b849062baa"
 
 [[files]]
 file = "config/paxi/datapacks/Merciful Beginnings/data/mercy/advancements/given_mercy.json"
