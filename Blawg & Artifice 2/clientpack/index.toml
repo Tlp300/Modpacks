@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".qmenu_opened.marker"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/Hexerei-client.toml"
 hash = "70d41a3e3d638cfd61783d99f01d38e4867b01495c005bfdb8255115aa75feb8"
 
