@@ -337,14 +337,6 @@ file = "config/paxi/datapacks/Blartifice Tweaks/data/magichem/tags/blocks/harves
 hash = "de623c705872af45f9ff225ced11ee60b624095ce50a37a203f4fd8113265e78"
 
 [[files]]
-file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/loot_tables/blocks/deepslate_diamond_ore.json"
-hash = "05f759850f18a2d0efb495a115186b4cc1d633ea96d97c0f4a0318df98a0d515"
-
-[[files]]
-file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/loot_tables/blocks/diamond_ore.json"
-hash = "0f21e5a4e6bf0d93373de4c919516ac02d59939df37806ea394456ccb3e524f1"
-
-[[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/activator_rail.json"
 hash = "b8a8e0f026338abe20c5f3283d28e7187b8a0674a1470dd098a5c4940b4a7a50"
 
