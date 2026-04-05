@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+	"opalescence:opal_crystal_cluster",
+	"opalescence:moonlit_opal_crystal_cluster",
+	"opalescence:unpleasant_opal_crystal_cluster",
+	"magichem:cluster_diavrosite"
+  ]
+}

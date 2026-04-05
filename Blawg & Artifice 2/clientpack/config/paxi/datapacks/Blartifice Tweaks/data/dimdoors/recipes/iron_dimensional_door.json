@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	" # ",
+    "#X#",
+	" # "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_door"
+    },
+    "#": {
+      "item": "mna:mote_ender"
+    }
+  },
+  "result": {
+    "item": "dimdoors:item_ag_dim_minecraft_iron_door",
+    "count": 1
+  }
+}

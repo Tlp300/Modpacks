@@ -1,0 +1,27 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "tag": "minecraft:pickaxes"
+    },
+    "block_in": "detector_rail",
+    "post": [
+        {
+            "type": "prevent_default"
+        },
+        {
+            "type": "drop_item",
+            "item": "stone_pressure_plate"
+        },
+        {
+            "type": "place",
+            "block": "rail"
+        },
+        {
+            "type": "damage_item"
+        },
+        {
+            "type": "execute",
+            "command": "playsound minecraft:block.stone.break block @a ~ ~ ~ 1 0.8"
+        }
+    ]
+}

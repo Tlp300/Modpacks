@@ -1,0 +1,19 @@
+{
+	"type": "mna:manaweaving-recipe",
+	"tier": 2,
+	"output": "chunkloaders:basic_chunk_loader",	
+	"quantity": 1,	
+	"items": [
+		"mna:mote_ender",
+		"minecraft:iron_ingot",
+		"mna:mote_ender",
+		"minecraft:ender_pearl",
+		"minecraft:iron_ingot",
+		"minecraft:ender_pearl"
+	],
+	"patterns": [
+		"mna:triangle",
+		"mna:circle",
+		"mna:inverted_triangle"
+	]
+}

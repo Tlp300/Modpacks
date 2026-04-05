@@ -1,0 +1,391 @@
+{
+  "pack": {
+    "description": "la filtera",
+    "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "dimdoors",
+        "path": "worldgen/structure_set/gateways"
+      },
+      {
+        "namespace": "chunkloaders",
+        "path": "recipes/single_chunk_loader"
+      },
+      {
+        "namespace": "chunkloaders",
+        "path": "recipes/single_to_basic_chunk_loader"
+      },
+      {
+        "namespace": "chunkloaders",
+        "path": "recipes/advanced_chunk_loader"
+      },
+      {
+        "namespace": "chunkloaders",
+        "path": "recipes/ultimate_chunk_loader"
+      },
+      {
+        "namespace": "species",
+        "path": "recipes/wicked_dope"
+      },
+      {
+        "namespace": "hexerei",
+        "path": "recipes/coffer_from_mixing_cauldron"
+      },
+	  
+	  
+	  
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/1k_storage_block"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/4k_storage_block"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/16k_storage_block"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/64k_storage_block"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/64k_fluid_storage_block"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/256k_fluid_storage_block"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/1024k_fluid_storage_block"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/4096k_fluid_storage_block"
+      },
+	  
+	  
+	  
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/constructor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/destructor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/pattern"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/silk_touch_upgrade"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/fortune_1_upgrade"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/fortune_2_upgrade"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/fortune_3_upgrade"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/crafting_upgrade"
+      },
+	  
+	  
+	  
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/white_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/light_gray_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/gray_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/black_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/brown_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/red_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/orange_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/yellow_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/lime_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/green_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/cyan_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/blue_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/purple_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/magenta_pattern_grid"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/pink_pattern_grid"
+      },
+	  
+	  
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/white_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/light_gray_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/gray_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/black_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/brown_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/red_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/orange_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/yellow_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/lime_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/green_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/cyan_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/blue_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/purple_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/magenta_crafter"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/pink_crafter"
+      },
+	  
+	  
+	  
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/white_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/light_gray_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/gray_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/black_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/brown_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/red_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/orange_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/yellow_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/lime_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/green_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/cyan_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/blue_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/purple_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/magenta_crafter_manager"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/pink_crafter_manager"
+      },
+	  
+	  
+	  
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/white_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/light_gray_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/gray_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/black_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/brown_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/red_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/orange_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/yellow_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/lime_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/green_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/cyan_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/blue_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/purple_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/magenta_crafting_monitor"
+      },
+	  {
+        "namespace": "refinedstorage",
+        "path": "recipes/coloring_recipes/pink_crafting_monitor"
+      }
+    ]
+  }
+}

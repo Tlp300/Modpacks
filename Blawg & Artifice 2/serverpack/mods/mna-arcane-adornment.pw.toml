@@ -1,0 +1,13 @@
+name = "MnA: Arcane Adornment"
+filename = "arcado-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66d8d4045abacc67585804c4ae3db25bb746d05d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7871605
+project-id = 1499235

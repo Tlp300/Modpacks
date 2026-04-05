@@ -1,0 +1,13 @@
+name = "Mana and Artifice: Attributes"
+filename = "mna_attributes-forge-1.20.1-0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a10a2e8e718b8bf007ae0a6f37c84cb21c546044"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7876589
+project-id = 1103641

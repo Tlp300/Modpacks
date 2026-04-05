@@ -1,0 +1,19 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "minecraft:green_dye"
+    },
+    "block_in": {
+        "tag": "minecraft:wool"
+    },
+    "post": [
+        {
+            "type": "place",
+            "block": "green_wool"
+        },
+        {
+            "type": "execute",
+            "command": "playsound minecraft:item.dye.use block @a ~ ~ ~"
+        }
+    ]
+}

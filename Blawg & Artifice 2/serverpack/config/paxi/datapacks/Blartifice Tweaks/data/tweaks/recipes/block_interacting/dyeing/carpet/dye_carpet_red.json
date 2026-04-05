@@ -1,0 +1,19 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "minecraft:red_dye"
+    },
+    "block_in": {
+        "tag": "minecraft:wool_carpets"
+    },
+    "post": [
+        {
+            "type": "place",
+            "block": "red_carpet"
+        },
+        {
+            "type": "execute",
+            "command": "playsound minecraft:item.dye.use block @a ~ ~ ~"
+        }
+    ]
+}

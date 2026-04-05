@@ -1,0 +1,13 @@
+name = "Opalescence"
+filename = "opalescence-1.0.4+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9bb3c228ff46ee5547e247c80433d0393408427"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7521178
+project-id = 1255577

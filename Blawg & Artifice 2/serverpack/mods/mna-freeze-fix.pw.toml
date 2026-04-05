@@ -1,0 +1,13 @@
+name = "MnA Freeze Fix"
+filename = "mnafix-0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68dad225fc4c3e472546b64499c9ef19987ea360"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7466973
+project-id = 1431314

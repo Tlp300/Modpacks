@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+  	"#minecraft:crops",
+  	"minecraft:brown_mushroom",
+  	"minecraft:red_mushroom",
+  	"minecraft:sweet_berry_bush",
+  	"minecraft:nether_wart",
+	"farmersdelight:tomatoes",
+	"farmersdelight:brown_mushroom_colony",
+	"farmersdelight:red_mushroom_colony",
+	"mynethersdelight:crimson_fungus_colony",
+	"mynethersdelight:warped_fungus_colony"
+  ]
+}
