@@ -678,7 +678,7 @@ hash = "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "09081b73f7b8020a761a60c5380cbf8c74be5415e792ea782ce5a16ab6287b78"
+hash = "7b0fe6176b71cb9e938cfd20ec82f5a639797c0bfd461db21498fd8efbb26813"
 
 [[files]]
 file = "config/refinedstorage-client.toml"
