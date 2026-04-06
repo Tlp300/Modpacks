@@ -1173,11 +1173,6 @@ hash = "8c1ddc34636bfb9ab2209a4d387900f03682a65ed5fcf8b5027ffdd9ba49880f"
 metafile = true
 
 [[files]]
-file = "mods/simple-backups.pw.toml"
-hash = "779cc89e86506759e73562cb77fb7136e5af6b7081f9d265588e3fa6b62e2052"
-metafile = true
-
-[[files]]
 file = "mods/species.pw.toml"
 hash = "3b01d740ecb84714512ba7007fda59fb01bb3c0891af6b0ac8496af901be1f2b"
 metafile = true
