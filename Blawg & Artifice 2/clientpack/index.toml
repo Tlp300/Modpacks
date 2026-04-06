@@ -354,7 +354,7 @@ hash = "fd2f784b717a2f0e70a4363771d8cd4d11f5a136e52cb7f90b523e6beb5566fc"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/detector_rail.json"
-hash = "b781edfb26ab85f81e7a9b9fd7417bdbf9182e2a40895ecb17b4896bb1d51326"
+hash = "f4b40772bea1cbc765b11fd05b5bb239eb5bf00889a51f6d5828ec7697b70a24"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/gold_nugget_from_blasting.json"
@@ -386,7 +386,7 @@ hash = "750bf8d8eeba2b8c143dcece810169cd9871a3a2cb9e17252d1b1d42d182e700"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/powered_rail.json"
-hash = "738070d205b6b1df7d660b71f7f20fe3a23bf09e0788208cefdf375101bb1e5e"
+hash = "e9e8c6385939a2ebdb4f4e328c2d5f9e008d3abe973466683a45e3fd91235d75"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/sugar_from_beetroot.json"
@@ -574,7 +574,7 @@ hash = "10d8ac1bd2298c417231bbb39f0954c8a2da55282539aab0f29d122927e20965"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/tweaks/recipes/block_interacting/rails/apply_powered_rail.json"
-hash = "77990ff0b46aae801a7a41d90d17eb0cea789d7a5a0875d25ce2fc78e78dfe55"
+hash = "c61531833042822b7bf0d876084fa1d12f65051562928a367d6385e1c46d250b"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/tweaks/recipes/block_interacting/rails/remove_activator_rail.json"

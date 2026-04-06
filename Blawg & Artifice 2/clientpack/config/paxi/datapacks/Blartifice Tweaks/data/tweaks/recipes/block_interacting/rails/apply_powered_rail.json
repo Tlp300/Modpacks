@@ -1,7 +1,7 @@
 {
     "type": "lychee:block_interacting",
     "item_in": {
-        "item": "copper_ingot"
+        "item": "gold_ingot"
     },
     "block_in": "rail",
     "post": [
