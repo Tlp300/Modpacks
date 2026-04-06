@@ -10,7 +10,7 @@
         },
         {
             "type": "drop_item",
-            "item": "copper_ingot"
+            "item": "gold_ingot"
         },
         {
             "type": "place",
