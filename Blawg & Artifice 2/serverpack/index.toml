@@ -94,7 +94,7 @@ hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
 
 [[files]]
 file = "config/dimdoors-config.json5"
-hash = "e7a6d3bf2148a409e52678448141840b3a113dcad7628176cd61347183a42356"
+hash = "dd7ec2134e1258fa1555a11d982091a9146822216c51cfffdfc74ddacb3c6ffc"
 
 [[files]]
 file = "config/dummmmmmy-client.toml"

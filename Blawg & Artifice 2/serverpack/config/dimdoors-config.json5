@@ -14,7 +14,7 @@
     "pocketGridSize": 32,
     "maxPocketSize": 15,
     "privatePocketSize": 2,
-    "publicPocketSize": 1,
+    "publicPocketSize": 2,
     "defaultWeightEquation": "5",
     "fallbackWeight": 5,
     "asyncWorldEditPocketLoading": true,
