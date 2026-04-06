@@ -805,6 +805,10 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
+file = "defaultconfigs/magichem-server.toml"
+hash = "32e677317809c26cc6ac90d3f2f23f96a7658d376af0df524996af12e8ecd396"
+
+[[files]]
 file = "defaultconfigs/mna-general.toml"
 hash = "534456a5e90866a8b4d7a7e3f21bc984ff825268774d223adb7a92a5980b5ef2"
 
