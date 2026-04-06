@@ -16,7 +16,7 @@
 	#1: Hidden unless holding a mana consuming/restoring item.
 	#2: Always hidden.
 	#Range: 0 ~ 2
-	hudMode = 1
+	hudMode = 0
 	#Change the position of the HUD:
 	#0: Top Left
 	#1: Top Center
@@ -41,9 +41,8 @@
 	#Enable fancy magelights (disable this if you're getting FPS issues)
 	ma_fancy_magelights = true
 	#Should particles be blurred?  They'll be smoother, but shader packs may run into issues with artifact lines due to the blur math.
-	blurParticles = false
+	blurParticles = true
 
 #Mana and Artifice // Help Tips Settings
 [ma_helptips]
 	ma_ritual_tip = ["helptip.mna.damage_type_stacking", "helptip.mna.pretty_models", "helptip.mna.bind_wounds", "helptip.mna.visualized_multiblock", "helptip.mna.modifier_shift_click", "helptip.mna.pin_recipe", "helptip.mna.ritual_empty_hand"]
-

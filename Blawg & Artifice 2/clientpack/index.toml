@@ -270,7 +270,7 @@ hash = "98fc7eda3eb102b1155380e0d75af5ec7115a0bf5f052f1f54d197cdf1d0ee1e"
 
 [[files]]
 file = "config/mna-client.toml"
-hash = "686f032a0c0543293d51910d3c2398d8057cc2976dbf77280ebeb4d0eb74b6c4"
+hash = "407f5716053f19021e0b6fbd71f24fdf22f6a760af37ebcbf5371e7c75acf04e"
 
 [[files]]
 file = "config/mna_attributes-common.toml"
