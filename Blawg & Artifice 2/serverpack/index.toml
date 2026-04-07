@@ -721,14 +721,6 @@ file = "config/twilightforest-common.toml"
 hash = "2d8051f2d41dd6ee7b9e6570e84cd18a3e2d013c0890c95c0b66e7ecce0346b8"
 
 [[files]]
-file = "config/vanillabackport-client.toml"
-hash = "bdf48dd5b8bf5c83882a5105c4fa6b28d434ffdd31fd9a47eb32f550c6fee9ba"
-
-[[files]]
-file = "config/vanillabackport-common.toml"
-hash = "5f6e5ffde02f7a3796c283e361290df4042c8c7bf6f9c438e5d37563e1e9273b"
-
-[[files]]
 file = "config/xaero/lib/client.cfg"
 hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
 
