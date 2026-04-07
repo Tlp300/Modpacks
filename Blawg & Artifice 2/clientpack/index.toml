@@ -606,7 +606,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/paxi/datapacks/Content Filtering/pack.mcmeta"
-hash = "a0832a41aa736f4af48f090f2312778cc86d1381c6ba110ac72ad2b849062baa"
+hash = "f1ad00ff0036dc04b7eab063b0bc7808e124f1ba791f048dff5dc941d201796c"
 
 [[files]]
 file = "config/paxi/datapacks/Merciful Beginnings/data/mercy/advancements/given_mercy.json"
@@ -1070,6 +1070,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "5859dfd186c4ac5e7e4627639dc2aeca5478dd1f9d6f09020e49a9788edbf4de"
+metafile = true
+
+[[files]]
+file = "mods/mna-arcane-additions.pw.toml"
+hash = "60d2cec01562a5a81b717cddce40dee82c0fa6441e773b9ee814cf52d12cc7c5"
 metafile = true
 
 [[files]]

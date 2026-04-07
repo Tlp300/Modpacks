@@ -385,15 +385,6 @@
 	  {
         "namespace": "refinedstorage",
         "path": "recipes/coloring_recipes/pink_crafting_monitor"
-      },
-	  
-	  {
-        "namespace": "dimdoors",
-        "path": "recipes/rift_signature"
-      },
-	  {
-        "namespace": "dimdoors",
-        "path": "recipes/stabilized_rift_signature"
       }
     ]
   }
