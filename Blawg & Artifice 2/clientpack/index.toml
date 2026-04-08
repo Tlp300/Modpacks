@@ -357,6 +357,22 @@ file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/detector_
 hash = "f4b40772bea1cbc765b11fd05b5bb239eb5bf00889a51f6d5828ec7697b70a24"
 
 [[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/gold_nugget_from_blasting.json"
+hash = "c20b232e2d738c63e38780ce4257d29653466fd4a93d59a103cb9b6eea6d07d8"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/gold_nugget_from_smelting.json"
+hash = "4502f6eaf2d705a413dcaa9570ff1afbd9dc766bd69827449b54b4a54e3a7375"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/iron_nugget_from_blasting.json"
+hash = "86e2fe353b48d920aeae2f317687740ea810a778e8d6547873324965d461d75b"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/iron_nugget_from_smelting.json"
+hash = "cf0b8d8b80f6d21801d54dd9218b1ec1b5d0cc0ce0586839eacac57768db625b"
+
+[[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/mix_brown_dye.json"
 hash = "961995988dc5723491eaa6847cb95e352b74fd16875ca02ca918363b0d3bc956"
 
