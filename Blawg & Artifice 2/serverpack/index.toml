@@ -797,6 +797,10 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
+file = "defaultconfigs/gravestone-server.toml"
+hash = "9b5ad01d3373ad97156752ea6cc7bde6b98d3b558289a02f82e2b9cac3a1bd09"
+
+[[files]]
 file = "defaultconfigs/magichem-server.toml"
 hash = "32e677317809c26cc6ac90d3f2f23f96a7658d376af0df524996af12e8ecd396"
 
@@ -992,6 +996,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "3c35fc94cc89a4a1f2803ddc98fd0f530874d9d3950072f283428d48359f4c06"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "b55f3276124e13e8b3899d4d0400e990dea41d228644be34b341e62fe8abed6e"
 metafile = true
 
 [[files]]
