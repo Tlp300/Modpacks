@@ -366,11 +366,11 @@ hash = "4502f6eaf2d705a413dcaa9570ff1afbd9dc766bd69827449b54b4a54e3a7375"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/iron_nugget_from_blasting.json"
-hash = "86e2fe353b48d920aeae2f317687740ea810a778e8d6547873324965d461d75b"
+hash = "31a3ab74474d0ccaeda223969a319e4a075278d49a5cfdfbed39906ea1421ee7"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/iron_nugget_from_smelting.json"
-hash = "cf0b8d8b80f6d21801d54dd9218b1ec1b5d0cc0ce0586839eacac57768db625b"
+hash = "a5c8b97c38aefe56f8f24681c56670d4c8df0a7718c9c648dff62ec7cb2564e2"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/minecraft/recipes/mix_brown_dye.json"
@@ -395,6 +395,10 @@ hash = "9c74fcfe13e4efbad3466d20af792827ade2b3f2ea17c7460c8b11431c8b7bd3"
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/mna/recipes/manaweaving/animus_dust.json"
 hash = "6fd9a5ae3fbe43bac9701470419d8a45f46e7650e6986d17acf6624fab6368c3"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/mna/tags/items/arcane_furnace_doubling_blacklist.json"
+hash = "e62350cf31184c19eaea22fc42e83ca3941399d7b448bfde02279e6fa86281c4"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/quark/recipes/building/crafting/chests/mixed_chest.json"
