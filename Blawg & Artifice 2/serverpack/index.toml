@@ -702,7 +702,7 @@ hash = "5e524d3fb9ebcd0a0fb25655adfb0134919267781db239c3098b5734340ddbaa"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "03ad50e5f59c30af0f2b8608236129b4a60778e06488ca6014ef22dd370ccdaa"
+hash = "083d4a4a58475e648a7f272574a028a3856ce23742ae3cc208e2cb809d5c93b8"
 
 [[files]]
 file = "config/transition.json"
