@@ -888,6 +888,11 @@ hash = "913bbc46f7ebbae12ee05efee5810b4c56a027336acc929951ee3bae1f084275"
 metafile = true
 
 [[files]]
+file = "mods/classic-pipes.pw.toml"
+hash = "69cc19b749d4279e604037bb8aed0ad19ca1a42e9ff69acbcf26f6ec8a6a15a7"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -1155,6 +1160,11 @@ metafile = true
 [[files]]
 file = "mods/refined-polymorphism.pw.toml"
 hash = "68a55e82a93a7c080c5799e5abcfebcd65cca78443a7de64f5083f109720734d"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "70b949dab65474c3687c98063f66282c7a580e0bf82f33615fac247fdc29019b"
 metafile = true
 
 [[files]]
