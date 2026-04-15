@@ -385,6 +385,15 @@
 	  {
         "namespace": "refinedstorage",
         "path": "recipes/coloring_recipes/pink_crafting_monitor"
+      },
+	  
+	  {
+        "namespace": "forestry",
+        "path": "recipes/charcoal"
+      },
+	  {
+        "namespace": "forestry",
+        "path": "recipes/charcoal_from_block"
       }
     ]
   }

@@ -310,7 +310,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "3efea80f97556f20087abbbb9c8dd0aa48b19c6e68ae8dc43f929ad76223bcff"
+hash = "fc7873c78d48035bb231ee5aca076efca5e2a3d8054d63770a0465687598bf2f"
 
 [[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/chunkloaders/recipes/basic_chunk_loader.json"
@@ -610,7 +610,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/paxi/datapacks/Content Filtering/pack.mcmeta"
-hash = "f1ad00ff0036dc04b7eab063b0bc7808e124f1ba791f048dff5dc941d201796c"
+hash = "3115f2b8e13b78aa0ac9cfca6f5fd9cef7550288cba50fc5a275303777ddbd20"
 
 [[files]]
 file = "config/paxi/datapacks/Merciful Beginnings/data/mercy/advancements/given_mercy.json"
