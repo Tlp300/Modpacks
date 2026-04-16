@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+  	"embers:raw_lead",
+	"embers:raw_silver",
+	"forestry:raw_tin"
+  ]
+}

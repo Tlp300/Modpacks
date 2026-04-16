@@ -401,6 +401,14 @@ file = "config/paxi/datapacks/Blartifice Tweaks/data/mna/tags/items/arcane_furna
 hash = "e62350cf31184c19eaea22fc42e83ca3941399d7b448bfde02279e6fa86281c4"
 
 [[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/mna/tags/items/mining_overworld_common.json"
+hash = "7a8583042b06b50ec26e67a6dce81aab9bb34439220952c94239596cc8f85fa3"
+
+[[files]]
+file = "config/paxi/datapacks/Blartifice Tweaks/data/mna/tags/items/mining_overworld_rare.json"
+hash = "d9d6fc21d926bb60fbdc40f1e08acd946e01daadb8bc6a4b8138ce0e9c0114bc"
+
+[[files]]
 file = "config/paxi/datapacks/Blartifice Tweaks/data/quark/recipes/building/crafting/chests/mixed_chest.json"
 hash = "842868e9b5a662aa8416c7e86085ddb16ef69ba1e362cb098a725823492a606b"
 
