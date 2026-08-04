@@ -1263,11 +1263,6 @@ hash = "d50226c94a37c71af5c57af00c5ab3c1713b66c32573b0ef3d72464f0943a2b2"
 metafile = true
 
 [[files]]
-file = "mods/advanced-backups.pw.toml"
-hash = "0effc5a9a5a90e1db4b9843a282669bca912a4f28b746222ff8a95b07ae63f97"
-metafile = true
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "f50e9b66d0be7909fd407bf2e0b572ae04a26be595535dd8e1414a990bc890d2"
 metafile = true
