@@ -1241,6 +1241,10 @@ file = "global_packs/required_resources/Various Tweaks/assets/excessive_utilitie
 hash = "bc6eca36be8105e61ba863d0b41d1b2625bb3b5c27f60f553a7ef0e997a9a3cc"
 
 [[files]]
+file = "global_packs/required_resources/Various Tweaks/assets/irregular_implements/models/block/peace_candle.json"
+hash = "ce2a3304245a056194b16324a82af2e11b55f3045a825e2c8215b9a68dfe990b"
+
+[[files]]
 file = "global_packs/required_resources/Various Tweaks/assets/minecraft/sounds/block/beacon/activate.ogg"
 hash = "de4813809e3d24dce0c13f09c9ed79bbcc7e05a3869a651e657395e7246a38a2"
 
