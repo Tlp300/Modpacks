@@ -34,7 +34,7 @@
 		#The chance per tick that the Healing Axe will feed you a bit.
 		# Default: 0.01
 		# Range: 0.0 ~ 1.0
-		healingAxeChancePerTick = 0.01
+		healingAxeChancePerTick = 0.015
 		#The amount of hunger points that the Healing Axe will restore when it feeds you.
 		# Default: 1
 		# Range: > 0
