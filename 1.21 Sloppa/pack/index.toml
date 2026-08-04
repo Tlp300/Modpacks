@@ -410,7 +410,7 @@ hash = "4a3b422be5ce7a17f0aaf8e06f0eeabaee6287cdd7084686c53d4724a61c0562"
 
 [[files]]
 file = "config/excessive_utilities-server.toml"
-hash = "afa1e1ea72f397720434d7abb02090b9eefe24403f04ba139a8049ce37f6833a"
+hash = "e035c9c8dbfa767d2fe1cd35f0cdefc7e997fe4648fb55ba25e5c5408389853e"
 
 [[files]]
 file = "config/exposure-client.toml"
