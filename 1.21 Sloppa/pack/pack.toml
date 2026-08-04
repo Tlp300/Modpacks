@@ -1,0 +1,14 @@
+name = "Tlp's 1.21 Slop"
+author = "Panda"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b1ec8567b88a53dac3c83d3b74e9d8a9715bc114ced655a705838b64c9f3593b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"
+unsup = "1.2.7"

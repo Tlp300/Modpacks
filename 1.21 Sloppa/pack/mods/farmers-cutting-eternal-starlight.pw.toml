@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: Eternal Starlight"
+filename = "farmers-cutting-eternal-starlight-1.21.1-2.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a1ee96128cc5a94cf834bc4a44a7ff44c45d474"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7453377
+project-id = 1131041

@@ -1,0 +1,17 @@
+{
+  "config_version": "1.0.4",
+  "config_datetime": "2026-07-30_00-53-56",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [
+    {
+      "name": "malum:deepslate_quartz_geode",
+      "is_disabled": true
+    },
+    {
+      "name": "malum:quartz_geode",
+      "is_disabled": true
+    }
+  ]
+}

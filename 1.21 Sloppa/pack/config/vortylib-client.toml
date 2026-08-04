@@ -1,0 +1,2 @@
+#Display a message if ChaosLib is not installed when Iris is running
+chaoslibWarning = true

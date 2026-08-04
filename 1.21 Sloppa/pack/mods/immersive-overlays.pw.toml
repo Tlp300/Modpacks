@@ -1,0 +1,13 @@
+name = "Immersive Overlays"
+filename = "immersiveoverlays-1.7.3+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9a1e53d8d9084a189e80ff6cd2ba85ffa71d2d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8534185
+project-id = 1245453

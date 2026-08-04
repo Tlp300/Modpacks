@@ -1,0 +1,13 @@
+name = "Cybernatics Vanity"
+filename = "cyberneticsvanity-0.5.0b-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "639c846e1141faf62aed0876b33a70d5dc1168f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8549684
+project-id = 1619563

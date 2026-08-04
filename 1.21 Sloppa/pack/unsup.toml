@@ -1,0 +1,60 @@
+[flavor_groups.sodium]
+name = "Sodium"
+description = "Rendering optimization mod, may cause visual issues with some effects. Recommended only to use if needed. Client only."
+side = "client"
+[[flavor_groups.sodium.choices]]
+id = "sodium_on"
+name = "Yes"
+description = "Installs Sodium."
+[[flavor_groups.sodium.choices]]
+id = "sodium_off"
+name = "No"
+description = "Do not install Sodium."
+
+[flavor_groups.ears]
+name = "Ears"
+description = "Uses the otherwise-blank space on a modern 64x64 skin in combination with alpha layer encoding to give extra features to your player model, such as ears, wings, a custom cape, breasts, a snout and more. Client only. No effect (other than seeing other players Ears skins) if you do not have an Ears skin. Client only."
+side = "client"
+[[flavor_groups.ears.choices]]
+id = "ears_on"
+name = "Yes"
+description = "Installs Ears."
+[[flavor_groups.ears.choices]]
+id = "ears_off"
+name = "No"
+description = "Do not install Ears."
+
+[flavor_groups.mousetweaks]
+name = "Mouse Tweaks"
+description = "It's Mouse Tweaks. Either you know what it does, or you're living under a rock."
+side = "both"
+[[flavor_groups.mousetweaks.choices]]
+id = "mousetweaks_on"
+name = "Yes"
+description = "Installs Mouse Tweaks."
+[[flavor_groups.mousetweaks.choices]]
+id = "mousetweaks_off"
+name = "No"
+description = "Do not install Mouse Tweaks."
+
+[flavor_groups.particlerain]
+name = "Particle Rain"
+description = "Makes rain visuals prettier, like wind and sliding down blocks. Disable if you'd prefer slightly better performance."
+side = "both"
+[[flavor_groups.particlerain.choices]]
+id = "particlerain_on"
+name = "Yes"
+description = "Installs Particle Rain."
+[[flavor_groups.particlerain.choices]]
+id = "particlerain_off"
+name = "No"
+description = "Do not install Particle Rain."
+
+[metafile.sodium]
+flavors = "sodium_on"
+[metafile.ears]
+flavors = "ears_on"
+[metafile.mouse-tweaks]
+flavors = "mousetweaks_on"
+[metafile.particle-rain]
+flavors = "particlerain_on"

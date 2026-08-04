@@ -1,0 +1,13 @@
+name = "Packages"
+filename = "packages-1.21.1-neoforge-2025.12.23.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "516c6477c0c3116d311f0b0ebbb3b48362996eb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7370947
+project-id = 383733

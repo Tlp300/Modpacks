@@ -1,0 +1,13 @@
+name = "Create: Better Stock Ticker"
+filename = "betterstockticker-1.1.295.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddfb551bf5ea14e7b97995cfc0e2503217bbc8c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8318928
+project-id = 1575477

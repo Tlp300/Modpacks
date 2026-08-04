@@ -1,0 +1,35 @@
+[
+	{
+        "action": "remove",
+        "items": [
+            "caverns_and_chasms:copper_nugget",
+			"incubation:fried_egg",
+			"bountifulfares:cooked_egg",
+			
+			"excessive_utilities:chicken_wing_ring",
+			"excessive_utilities:ring_of_the_flying_squid",
+			"excessive_utilities:chicken_wing_ring",
+			"excessive_utilities:angel_ring",
+			"excessive_utilities:bag_of_holding",
+			"excessive_utilities:chicken_wing_ring",
+			"excessive_utilities:indexer_remote",
+			"excessive_utilities:chicken_wing_ring",
+			"excessive_utilities:destruction_wand",
+			"excessive_utilities:creative_destruction_wand",
+			"excessive_utilities:heating_coil",
+			"excessive_utilities:quantum_quarry",
+			"excessive_utilities:quantum_quarry_actuator",
+			
+			"irregular_implements:divining_rod",
+			"irregular_implements:block_mover",
+			"irregular_implements:custom_crafting_table"
+        ]
+    },
+	
+    {
+        "action": "remove_interactions",
+        "items": [
+            "modular_backpacks:backpack"
+        ]
+    }
+]

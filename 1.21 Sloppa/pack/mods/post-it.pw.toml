@@ -1,0 +1,13 @@
+name = "Post It!"
+filename = "postit-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0480b58f8893ed418bd147733349fb21789840fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8549798
+project-id = 1632816
