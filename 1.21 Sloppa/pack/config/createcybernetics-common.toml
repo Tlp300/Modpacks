@@ -104,7 +104,7 @@ batteryRepairAmount = 500
 #ANY_PLAYER_PENDING_APPROVAL: Any player may upload tattoos, but uploads must be approved by an admin before appearing.
 #ANY_PLAYER_AUTO_APPROVE: Any player may upload tattoos, and uploads are immediately approved. Not recommended for public servers.
 #Allowed Values: SERVER_FILES_ONLY, OP_ONLY_AUTO_APPROVE, ANY_PLAYER_PENDING_APPROVAL, ANY_PLAYER_AUTO_APPROVE
-tattooUploadMode = "OP_ONLY_AUTO_APPROVE"
+tattooUploadMode = "ANY_PLAYER_AUTO_APPROVE"
 #Cyberzombie spawn weight. Set to 0 to disable natural spawning.
 # Default: 10
 # Range: 0 ~ 1000
