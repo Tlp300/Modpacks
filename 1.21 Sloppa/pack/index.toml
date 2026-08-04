@@ -338,7 +338,7 @@ hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
 
 [[files]]
 file = "config/curios-common.toml"
-hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+hash = "2254ee4de5af0755ef1a058a854fb0022e6d6ba750aed01eabef22642f80e63e"
 
 [[files]]
 file = "config/curios-server.toml"
@@ -1161,6 +1161,10 @@ file = "global_packs/required_data/Various Tweaks/data/c/tags/block/lightning_ro
 hash = "f723b96ded6c4cbe1cb4e978e452a247b38b69ab40c5a3ad8c2f06dc335a9cc3"
 
 [[files]]
+file = "global_packs/required_data/Various Tweaks/data/curios/tags/item/cape.json"
+hash = "50e071264999cc0e6cea0867ea1152c61f9a6b0929fb3fdfae8e805db0bc1ec7"
+
+[[files]]
 file = "global_packs/required_data/Various Tweaks/data/minecraft/loot_table/blocks/chiseled_bookshelf.json"
 hash = "d1c7c6a0491522068e6bfa16367d6ccc19af69f9cea2cd32322bcb4408f62945"
 
@@ -1243,10 +1247,6 @@ hash = "de4813809e3d24dce0c13f09c9ed79bbcc7e05a3869a651e657395e7246a38a2"
 [[files]]
 file = "global_packs/required_resources/Various Tweaks/pack.mcmeta"
 hash = "3ab1b4792abe5a7c748305d3c5258f67072ac8b127d95bd5920154ec181486b2"
-
-[[files]]
-file = "mods/Halcyon-v0.4.1+aria-of-the-moon.jar"
-hash = "aed3ae7f980f78ed973e65f3bb77ab9e25a23023d74be4b02e27cb0fcabb0380"
 
 [[files]]
 file = "mods/aaron.pw.toml"
@@ -1529,8 +1529,13 @@ hash = "bc9a5c453bba88f517fa7e786bcf6e2225d2a3fd218f54ab14057db51eafdf1d"
 metafile = true
 
 [[files]]
+file = "mods/data-essence.pw.toml"
+hash = "6f6ccdb0442794239d2e1e9b1806fdfcd775703a013cc72bbf4e0d23755f3a8e"
+metafile = true
+
+[[files]]
 file = "mods/databank.pw.toml"
-hash = "255fab3281eaf50589f7009c1887b2f9e638a6512e2fab7ffa1a967bf760bfa9"
+hash = "381972afa0889123a66f56bab3ae2ee91989f648913af04105d0f8631c16cf9c"
 metafile = true
 
 [[files]]

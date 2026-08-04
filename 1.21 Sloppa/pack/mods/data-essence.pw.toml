@@ -1,0 +1,13 @@
+name = "Halcyon | Data & Essence"
+filename = "Halcyon-v0.4.1+aria-of-the-moon.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p2r7HYfw/versions/E2pQygSX/Halcyon-v0.4.1%2Baria-of-the-moon.jar"
+hash-format = "sha1"
+hash = "4ec56842265616abb1c7428b6caa71df3fea427e"
+
+[update]
+[update.modrinth]
+mod-id = "p2r7HYfw"
+version = "E2pQygSX"
