@@ -37,7 +37,7 @@
 	#Whether the wave gate exists at all. Disabling hides it from creative tabs and disables its recipe.
 	enabled = true
 	#Whether the wave gate is craftable in survival. When off it is creative-only. Ignored when ComputerCraft is installed, which always makes it craftable.
-	craftable = false
+	craftable = true
 
 [view_finder]
 	#How right-clicking a view finder behaves. GUI: opens a screen with the lens slot, pitch/yaw angle controls and a 'view' button (sneak to jump straight into viewing). LEGACY: no screen at all - click to look through it directly, and use items on it to insert/remove the lens.
