@@ -52,6 +52,8 @@ description = "Do not install Particle Rain."
 
 [metafile.sodium]
 flavors = "sodium_on"
+[metafile.reeses-sodium-options]
+flavors = "sodium_on"
 [metafile.ears]
 flavors = "ears_on"
 [metafile.mouse-tweaks]
