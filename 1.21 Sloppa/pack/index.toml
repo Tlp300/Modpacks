@@ -1034,7 +1034,7 @@ hash = "ed5bcc9331830ce53bfdaa0a4d13585f4c78cc553e16a02969b9521f79510e86"
 
 [[files]]
 file = "config/vista-common.toml"
-hash = "05e73563700ee3b7d9c25678e66e31b569833a2a2badd13a0da87dfaf3bfc0b0"
+hash = "319c47aad3eecafb5c6c7e1778388641b89d05b994e0a1aa295185999189e763"
 
 [[files]]
 file = "config/vortylib-client.toml"
