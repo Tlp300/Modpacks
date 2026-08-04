@@ -954,7 +954,7 @@ hash = "ae9c885e8be9f02a705652d5f371f046471c4f80736e7ff720a00ed428bc0b31"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "de64b17dd2bfa4439d5873e741c8278e4dbbbe0039cbea3c53f7b5de067f368e"
+hash = "8c0dd9af4e632e975be65b0fbdc13951235020f4f247a4c816876c29178fb323"
 
 [[files]]
 file = "config/supplementaries-client.toml"
