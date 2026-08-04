@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".qmenu_opened.marker"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = ".analogaudio/internal/analogplayer-1.0.2.jar"
+hash = "5b53779dca71a5d9f9e15cf9137a6b44d4ca3bb578c9027b30c30578819cebd7"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -1235,6 +1235,10 @@ hash = "be87d8deff143c90258b42096f830c3f199fea6073b42f713e5dcb58c5fadae7"
 [[files]]
 file = "global_packs/required_resources/Various Tweaks/assets/excessive_utilities/textures/item/division_sigil.png"
 hash = "bc6eca36be8105e61ba863d0b41d1b2625bb3b5c27f60f553a7ef0e997a9a3cc"
+
+[[files]]
+file = "global_packs/required_resources/Various Tweaks/assets/minecraft/sounds/block/beacon/activate.ogg"
+hash = "de4813809e3d24dce0c13f09c9ed79bbcc7e05a3869a651e657395e7246a38a2"
 
 [[files]]
 file = "global_packs/required_resources/Various Tweaks/pack.mcmeta"
