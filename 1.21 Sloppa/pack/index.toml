@@ -1304,7 +1304,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "de04eb0405fe173992455f5600914877609964865ac2a8a9d3dbeedc7b795905"
+hash = "ae08a084722418d43530c9332b72d4f8e3cb106c601b0b199c068cc40731356a"
 metafile = true
 
 [[files]]
