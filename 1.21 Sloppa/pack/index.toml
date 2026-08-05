@@ -1185,62 +1185,6 @@ file = "global_packs/required_data/Various Tweaks/data/minecraft/loot_table/bloc
 hash = "d1c7c6a0491522068e6bfa16367d6ccc19af69f9cea2cd32322bcb4408f62945"
 
 [[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/activator_rail.json"
-hash = "b8a8e0f026338abe20c5f3283d28e7187b8a0674a1470dd098a5c4940b4a7a50"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/beehive.json"
-hash = "47f255facdf46e3ece339d507d3b8c8159a13d56262d4cb99dd81cdd72473266"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/cake.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/campfire.json"
-hash = "fd2f784b717a2f0e70a4363771d8cd4d11f5a136e52cb7f90b523e6beb5566fc"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/detector_rail.json"
-hash = "f4b40772bea1cbc765b11fd05b5bb239eb5bf00889a51f6d5828ec7697b70a24"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/gold_nugget_from_blasting.json"
-hash = "c20b232e2d738c63e38780ce4257d29653466fd4a93d59a103cb9b6eea6d07d8"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/gold_nugget_from_smelting.json"
-hash = "4502f6eaf2d705a413dcaa9570ff1afbd9dc766bd69827449b54b4a54e3a7375"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/iron_nugget_from_blasting.json"
-hash = "31a3ab74474d0ccaeda223969a319e4a075278d49a5cfdfbed39906ea1421ee7"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/iron_nugget_from_smelting.json"
-hash = "a5c8b97c38aefe56f8f24681c56670d4c8df0a7718c9c648dff62ec7cb2564e2"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/mix_brown_dye.json"
-hash = "961995988dc5723491eaa6847cb95e352b74fd16875ca02ca918363b0d3bc956"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/mix_green_dye.json"
-hash = "a7443dc70ad6cb429901ed6daddcb6dfdae820b45a03b71dc9d0a06c3f9def51"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/nether_gunpowder.json"
-hash = "750bf8d8eeba2b8c143dcece810169cd9871a3a2cb9e17252d1b1d42d182e700"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/powered_rail.json"
-hash = "e9e8c6385939a2ebdb4f4e328c2d5f9e008d3abe973466683a45e3fd91235d75"
-
-[[files]]
-file = "global_packs/required_data/Various Tweaks/data/minecraft/recipe/sugar_from_beetroot.json"
-hash = "9c74fcfe13e4efbad3466d20af792827ade2b3f2ea17c7460c8b11431c8b7bd3"
-
-[[files]]
 file = "global_packs/required_data/Various Tweaks/data/quarkmatrixtable/recipe/convert_to_matrix_table.json"
 hash = "20f398e1c6ba622da6cdca1793df036f7895c1ddc7c41b1623ca0561defbcf65"
 
