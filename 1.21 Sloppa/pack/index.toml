@@ -1145,6 +1145,22 @@ file = "config/zeta-common.toml"
 hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "cfe8f00482f236e28a73b8ef3a0ca56e341a0f9dcea607ddcc82c8ffdc4b39f4"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
+hash = "3babb7547bb3c208d025bbadc01a576ffc4e69d1d769a193b62b801de1228895"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+hash = "3babb7547bb3c208d025bbadc01a576ffc4e69d1d769a193b62b801de1228895"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
+hash = "76c5cb0651d436cccee1e9701dbea27c629942330d73a8fa582c4bf43a752d42"
+
+[[files]]
 file = "global_packs/required_data/Pack Filter/data/malum/worldgen/configured_feature/deepslate_quartz_geode.json"
 hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
 
