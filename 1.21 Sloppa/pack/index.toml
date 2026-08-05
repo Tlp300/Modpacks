@@ -1177,6 +1177,10 @@ file = "global_packs/required_data/Various Tweaks/data/c/tags/block/lightning_ro
 hash = "f723b96ded6c4cbe1cb4e978e452a247b38b69ab40c5a3ad8c2f06dc335a9cc3"
 
 [[files]]
+file = "global_packs/required_data/Various Tweaks/data/createcybernetics/recipe/skinupgrades_synthskin.json"
+hash = "a5e84a86359eff92d366e2d0f994e973fb8e6338bbf311bdcba6dd9ff1c5aa3b"
+
+[[files]]
 file = "global_packs/required_data/Various Tweaks/data/curios/tags/item/cape.json"
 hash = "50e071264999cc0e6cea0867ea1152c61f9a6b0929fb3fdfae8e805db0bc1ec7"
 
