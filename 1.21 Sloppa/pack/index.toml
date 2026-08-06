@@ -1185,6 +1185,10 @@ file = "global_packs/required_data/Various Tweaks/data/curios/tags/item/cape.jso
 hash = "50e071264999cc0e6cea0867ea1152c61f9a6b0929fb3fdfae8e805db0bc1ec7"
 
 [[files]]
+file = "global_packs/required_data/Various Tweaks/data/malum/loot_table/blocks/cthonic_gold_ore.json"
+hash = "5e32da9f0e2d2e8cc428093589946febcfee8764ba6d36d9dd3c53bebe9c91fa"
+
+[[files]]
 file = "global_packs/required_data/Various Tweaks/data/minecraft/loot_table/blocks/chiseled_bookshelf.json"
 hash = "d1c7c6a0491522068e6bfa16367d6ccc19af69f9cea2cd32322bcb4408f62945"
 
