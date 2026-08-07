@@ -1014,7 +1014,7 @@ hash = "ffc1a7e9ff53a47a30ab571c536c78c77ad3899ebb81fe3bb736e1198c2027b8"
 
 [[files]]
 file = "config/treechop-common.toml"
-hash = "449c3f41e2e6b186c7053d7e6a7aae19882009ce5a10c84fcaefe8ec85491b58"
+hash = "9eb202b74e16ddefb1189ccec3ddcbc6cfddb2d66619482112fd7fca67972722"
 
 [[files]]
 file = "config/trender.json"
