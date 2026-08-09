@@ -1,0 +1,27 @@
+{
+    "type":  "goety:ritual",
+    "ritual_type":  "goety:enchant",
+    "activation_item":  {
+                            "item":  "minecraft:book"
+                        },
+    "craftType":  "magic",
+    "soulCost":  250,
+    "duration":  10,
+    "enchantment":  "yigd:soulbound",
+    "xpLevelCost":  10,
+    "ingredients":  [
+                        {
+                            "item":  "irregular_implements:spectre_anchor"
+                        },
+                        {
+                            "item":  "eternal_starlight:soul_dew"
+                        },
+                        {
+                            "item":  "goety:grave_dust"
+                        }
+                    ],
+    "result":  {
+                   "id":  "minecraft:enchanted_book"
+               }
+}
+

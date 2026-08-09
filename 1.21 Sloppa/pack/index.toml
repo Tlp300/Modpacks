@@ -1177,6 +1177,10 @@ file = "global_packs/required_data/Various Tweaks/data/c/tags/block/lightning_ro
 hash = "f723b96ded6c4cbe1cb4e978e452a247b38b69ab40c5a3ad8c2f06dc335a9cc3"
 
 [[files]]
+file = "global_packs/required_data/Various Tweaks/data/c/tags/item/tools/mining_tool.json"
+hash = "2b3344a71fb66dab60bcaea4dd30adf8f0e6bbb1bdc99f184b6112cf65338159"
+
+[[files]]
 file = "global_packs/required_data/Various Tweaks/data/createcybernetics/recipe/skinupgrades_synthskin.json"
 hash = "a5e84a86359eff92d366e2d0f994e973fb8e6338bbf311bdcba6dd9ff1c5aa3b"
 
@@ -1199,6 +1203,10 @@ hash = "20f398e1c6ba622da6cdca1793df036f7895c1ddc7c41b1623ca0561defbcf65"
 [[files]]
 file = "global_packs/required_data/Various Tweaks/data/quarkmatrixtable/recipe/convert_to_regular_table.json"
 hash = "5a19eaf0548c4386be8fb815bd1eced2794eede2d700467311a5a00ee43782eb"
+
+[[files]]
+file = "global_packs/required_data/Various Tweaks/data/sloppa/recipe/enchant/soulbound.json"
+hash = "6f17c1c01af8fb9455ca4b74ee8153fda97bd313ae49228522d7dc6e181ca681"
 
 [[files]]
 file = "global_packs/required_data/Various Tweaks/pack.mcmeta"
