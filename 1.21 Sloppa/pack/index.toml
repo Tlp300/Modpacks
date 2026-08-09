@@ -1209,6 +1209,14 @@ file = "global_packs/required_data/Various Tweaks/data/quarkmatrixtable/recipe/c
 hash = "5a19eaf0548c4386be8fb815bd1eced2794eede2d700467311a5a00ee43782eb"
 
 [[files]]
+file = "global_packs/required_data/Various Tweaks/data/sloppa/end_sea/the_nether.json"
+hash = "e73520332aae1e47f420e4c4cf9ff629221e4dd1c55ef52b6eda5a64d8386129"
+
+[[files]]
+file = "global_packs/required_data/Various Tweaks/data/sloppa/end_sea/the_overworld.json"
+hash = "5b39d13c67cd7f9ba5b9bb6fe09c42b5341763699a97f618b6f9e75987556797"
+
+[[files]]
 file = "global_packs/required_data/Various Tweaks/data/sloppa/recipe/enchant/soulbound.json"
 hash = "6f17c1c01af8fb9455ca4b74ee8153fda97bd313ae49228522d7dc6e181ca681"
 
