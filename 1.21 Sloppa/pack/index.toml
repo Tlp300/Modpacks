@@ -1197,6 +1197,10 @@ file = "global_packs/required_data/Various Tweaks/data/minecraft/loot_table/bloc
 hash = "d1c7c6a0491522068e6bfa16367d6ccc19af69f9cea2cd32322bcb4408f62945"
 
 [[files]]
+file = "global_packs/required_data/Various Tweaks/data/minecraft/loot_table/entities/wither.json"
+hash = "c5b3a9252c9c39607f6be17d101c83d09f3367636371a7993f58f6c41ab8a3ff"
+
+[[files]]
 file = "global_packs/required_data/Various Tweaks/data/quarkmatrixtable/recipe/convert_to_matrix_table.json"
 hash = "20f398e1c6ba622da6cdca1793df036f7895c1ddc7c41b1623ca0561defbcf65"
 
