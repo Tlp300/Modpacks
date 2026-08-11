@@ -1536,7 +1536,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-essence.pw.toml"
-hash = "6f6ccdb0442794239d2e1e9b1806fdfcd775703a013cc72bbf4e0d23755f3a8e"
+hash = "bd7c0d89456e89d2626ac0e2ab53f8a98ec4e9126bcc97d2bbea63505482beef"
 metafile = true
 
 [[files]]

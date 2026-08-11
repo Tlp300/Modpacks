@@ -1,6 +1,7 @@
 name = "Halcyon | Data & Essence"
 filename = "Halcyon-v0.4.1+aria-of-the-moon.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/p2r7HYfw/versions/E2pQygSX/Halcyon-v0.4.1%2Baria-of-the-moon.jar"
