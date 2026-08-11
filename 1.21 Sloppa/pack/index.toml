@@ -1431,7 +1431,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "3fda1aeaa7c8e070b49f5f1ed20b17405b0533c0e942bea7193eaae4cbc54567"
+hash = "6c72a9fddc5fe835ab7084e11dc97bfd70ff28b9a37dc242a1907366ee7bf7a6"
 metafile = true
 
 [[files]]
@@ -1456,7 +1456,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "6fb1b211e2501d43628ae5d1b7c65616341235d39a5b5f608cf0a06a350c1e21"
+hash = "ad5d6dd127aa6ff7e8881491be181d68702aede317297d1650b257b41a9c25e6"
 metafile = true
 
 [[files]]
@@ -1466,7 +1466,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "e66465de78c0190cf4725419c0cf1a478f94f964d626f495e5652705cd06a863"
+hash = "80b45db88c3ffdf400cfe56bc5828a43637bab64f28ce1a83d14f8669387553d"
 metafile = true
 
 [[files]]
@@ -1476,7 +1476,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
-hash = "be11a918a55c23cfde51e326b263f97200d22ca5e785c53b751b2155851461f4"
+hash = "0d93655a88f116e1debc6769743d9fb73e548b94025793523f91273a5694405e"
 metafile = true
 
 [[files]]
@@ -2056,7 +2056,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "842ffef1c69ad33d4b21f779399c46366009332a375a979ba19dd57e0e1e0162"
+hash = "e58445d8ff30273c8ee9d7a21ce224c8ce4de73f4367176a72cdaf7b389553bc"
 metafile = true
 
 [[files]]
@@ -2101,7 +2101,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista.pw.toml"
-hash = "7c016354d57a37a6f082ff818fb17ec67a45372a4297c4ad16e25b6fddbb706f"
+hash = "bb4625ce0184ec4570fd17d4181505ed8f34b84b3588be910ff383882ea75d9d"
 metafile = true
 
 [[files]]
