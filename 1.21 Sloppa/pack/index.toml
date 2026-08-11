@@ -1221,6 +1221,10 @@ file = "global_packs/required_data/Various Tweaks/data/sloppa/recipe/enchant/sou
 hash = "6f17c1c01af8fb9455ca4b74ee8153fda97bd313ae49228522d7dc6e181ca681"
 
 [[files]]
+file = "global_packs/required_data/Various Tweaks/data/worldgen/structure/ancient_city.json"
+hash = "46b417f66086563d4aa1c4790dec36405033368979f6d881c78fdb29760efcb3"
+
+[[files]]
 file = "global_packs/required_data/Various Tweaks/pack.mcmeta"
 hash = "be87d8deff143c90258b42096f830c3f199fea6073b42f713e5dcb58c5fadae7"
 
