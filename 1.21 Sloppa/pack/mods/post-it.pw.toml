@@ -1,13 +1,13 @@
 name = "Post It!"
-filename = "postit-1.0.1.jar"
+filename = "postit-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0480b58f8893ed418bd147733349fb21789840fe"
+hash = "ea0fa7b0b8a819616ff86d9bd07d55eb79ac2c18"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8549798
+file-id = 8580111
 project-id = 1632816

@@ -1,13 +1,13 @@
 name = "Modular Backpacks"
-filename = "modular_backpacks-0.2.4.jar"
+filename = "modular_backpacks-0.2.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b373f5b250e3e716f7eba472fc46e47d91b145a5"
+hash = "03598475b52b4f6541680025a098a5da2c18dca4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8572974
+file-id = 8612448
 project-id = 1528260

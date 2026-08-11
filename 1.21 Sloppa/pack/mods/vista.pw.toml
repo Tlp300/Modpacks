@@ -1,13 +1,13 @@
 name = "Vista"
-filename = "vista-neoforge-1.21.1-5.2.5.jar"
+filename = "vista-1.21.1-5.3.3-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "17e39d45b0dea3d23b9f2bca2ab0408153023ba1"
+hash = "f66c1ab15e5992639a6c62b07cefd92a9aef76e3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8523420
+file-id = 8617811
 project-id = 1368607

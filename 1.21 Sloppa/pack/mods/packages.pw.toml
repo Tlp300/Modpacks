@@ -1,13 +1,13 @@
 name = "Packages"
-filename = "packages-1.21.1-neoforge-2025.12.23.jar"
+filename = "packages-1.21.1-neoforge-2026.08.07.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "516c6477c0c3116d311f0b0ebbb3b48362996eb9"
+hash = "0f7b494f1446e89bec1aefa3dffc3a54198d914a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7370947
+file-id = 8593317
 project-id = 383733
