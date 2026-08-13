@@ -28,7 +28,7 @@
 	elytraAddFovEffects: true,
 	elytraAddGlidingSound: true,
 	elytraAddOpenCloseSounds: true,
-	elytraSneakToStopGliding: true,
+	elytraSneakToStopGliding: false,
 	elytraUpdateEquipSound: true,
 	endermanStaticOverlay: true,
 	endermanStaticSound: true,
