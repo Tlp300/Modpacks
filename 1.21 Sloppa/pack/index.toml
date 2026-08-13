@@ -506,7 +506,7 @@ hash = "fb725cff289935c6e14bd8d41a6824d0379711a41ab03f216e93a581ca8c62b5"
 
 [[files]]
 file = "config/goety/goety.toml"
-hash = "d2e96e7a83fa5e28a778cdcecbebe9eccabc8eeac8ee199d38a334846abcdc8f"
+hash = "ef98b971dd5581c9b54dd3128a7cb814991136afb284d8e3beb1311f1616c85e"
 
 [[files]]
 file = "config/halcyon-client.toml"
