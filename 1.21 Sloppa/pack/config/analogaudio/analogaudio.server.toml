@@ -3,10 +3,10 @@
 # ============================================================
 
 # List of website domains allowed for cassette writing. (e.g., youtube.com)
-whitelistedUrls = []
+whitelistedUrls = ["youtube.com", "youtu.be", "soundcloud.com", "bandcamp.com", "scrap.russel.fun", "russelcs.fun"]
 
 # If enabled, the URL whitelist will be treated instead as a blacklist.
-whitelistAsBlacklist = true
+whitelistAsBlacklist = false
 
 # Enables the static effect for walkie talkies and speakers.
 enableWalkieFiltering = true

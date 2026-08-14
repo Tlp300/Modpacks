@@ -46,7 +46,7 @@ hash = "5fe926981735b6c33520dd9deaf7dc6a5f0234533c1b6949452922c2bf453f08"
 
 [[files]]
 file = "config/analogaudio/analogaudio.server.toml"
-hash = "e45efe06233d1b36fbb9641b21aa3d1cf453ae0905da681c5fae2bbd98ff390a"
+hash = "1139e0c5636c939d14eeb5ec5d1b25231f1fce9448c9765a7254cc24680293cd"
 
 [[files]]
 file = "config/antique-atlas.toml"
