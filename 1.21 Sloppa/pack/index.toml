@@ -1189,6 +1189,10 @@ file = "global_packs/required_data/Various Tweaks/data/curios/tags/item/cape.jso
 hash = "50e071264999cc0e6cea0867ea1152c61f9a6b0929fb3fdfae8e805db0bc1ec7"
 
 [[files]]
+file = "global_packs/required_data/Various Tweaks/data/excessive_utilities/recipe/crusher/minecraft/glowstone_dust.json"
+hash = "8349a4b0c76d39b1a0f66d7bcb4b0b2f7f3b5bba2263fdde245dd636d3ca8663"
+
+[[files]]
 file = "global_packs/required_data/Various Tweaks/data/malum/loot_table/blocks/cthonic_gold_ore.json"
 hash = "5e32da9f0e2d2e8cc428093589946febcfee8764ba6d36d9dd3c53bebe9c91fa"
 
@@ -1199,6 +1203,10 @@ hash = "d1c7c6a0491522068e6bfa16367d6ccc19af69f9cea2cd32322bcb4408f62945"
 [[files]]
 file = "global_packs/required_data/Various Tweaks/data/minecraft/loot_table/entities/wither.json"
 hash = "c5b3a9252c9c39607f6be17d101c83d09f3367636371a7993f58f6c41ab8a3ff"
+
+[[files]]
+file = "global_packs/required_data/Various Tweaks/data/quark/recipe/building/crafting/compressed/vanilla_nether_wart_block_4x4.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "global_packs/required_data/Various Tweaks/data/quarkmatrixtable/recipe/convert_to_matrix_table.json"
