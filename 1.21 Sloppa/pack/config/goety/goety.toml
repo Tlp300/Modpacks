@@ -54,7 +54,7 @@
 	darkAnvilRepairCost = 30
 	#Add mobs that Forbidden Grass will not spawn. 
 	#To do so, enter the namespace ID of the mob, like "minecraft:zombie, minecraft:skeleton".
-	forbiddenGrassBlackList = []
+	forbiddenGrassBlackList = ["minecraft:enderman"]
 	#Whether Dark Anvils will take Experience Points instead of Levels, Default: false
 	darkAnvilTakePoints = false
 	#The amount of Soul Energy used up to repair Items per the configured amount of seconds, Default: 1

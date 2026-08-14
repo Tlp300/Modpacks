@@ -394,7 +394,7 @@ hash = "a6c42f67aa4641b14c518f9ec72b44f37c4c2f51f3ebb7a8e4e433b056db1bd2"
 
 [[files]]
 file = "config/enderscape.json5"
-hash = "0172f64ede42e5f6608c559045623ca82ae5f3123c5888f435bdd2d1b6773739"
+hash = "d6b692b723b259e14f270b067cc5074f53fa354d5a7eb600a63559b85ed3ce9a"
 
 [[files]]
 file = "config/endersdelight-common.toml"
@@ -506,7 +506,7 @@ hash = "fb725cff289935c6e14bd8d41a6824d0379711a41ab03f216e93a581ca8c62b5"
 
 [[files]]
 file = "config/goety/goety.toml"
-hash = "d2e96e7a83fa5e28a778cdcecbebe9eccabc8eeac8ee199d38a334846abcdc8f"
+hash = "ef98b971dd5581c9b54dd3128a7cb814991136afb284d8e3beb1311f1616c85e"
 
 [[files]]
 file = "config/halcyon-client.toml"
