@@ -1,13 +1,13 @@
 name = "Cybernetics"
-filename = "createcybernetics-0.5.1-neoforge-1.21.1-HOTFIX.jar"
+filename = "createcybernetics-0.5.2-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e33db46af6a6079877e2fb44cfae28a559fbceb4"
+hash = "5bcd12eba9fa058931cf2328925c7bc54e86af24"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8586657
+file-id = 8650924
 project-id = 1430192
