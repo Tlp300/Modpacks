@@ -1205,10 +1205,6 @@ file = "global_packs/required_data/Various Tweaks/data/minecraft/loot_table/enti
 hash = "c5b3a9252c9c39607f6be17d101c83d09f3367636371a7993f58f6c41ab8a3ff"
 
 [[files]]
-file = "global_packs/required_data/Various Tweaks/data/quark/recipe/building/crafting/compressed/vanilla_nether_wart_block_4x4.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
 file = "global_packs/required_data/Various Tweaks/data/quarkmatrixtable/recipe/convert_to_matrix_table.json"
 hash = "20f398e1c6ba622da6cdca1793df036f7895c1ddc7c41b1623ca0561defbcf65"
 
