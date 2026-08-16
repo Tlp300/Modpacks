@@ -245,7 +245,7 @@ configVersion = 4
 	#Max multimeter voltage
 	# Default: 500.0
 	# Range: 1.0 ~ 3.4028234663852886E38
-	multimeterVoltage = 500.0
+	multimeterVoltage = 5000.0
 	#.
 	#Max multimeter current
 	# Default: 50.0

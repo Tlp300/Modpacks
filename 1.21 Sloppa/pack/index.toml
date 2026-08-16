@@ -734,7 +734,7 @@ hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
 
 [[files]]
 file = "config/powergrid-client.toml"
-hash = "44e32eb7ffca8a97893c63379b4516cb6a9e9f1b1782b0302efb9fa54155a4ae"
+hash = "22fd5be0f190b1ac641557360d5ba104807726dcd4bb612744cc1c2fa94d2c12"
 
 [[files]]
 file = "config/powergrid-common.toml"
@@ -742,7 +742,7 @@ hash = "83e87856ebe127cef716c77137b3ebc0178612438022fe12498750f94432555c"
 
 [[files]]
 file = "config/powergrid-server.toml"
-hash = "9d58c62c1164f0e12a54f509139bf2ea40bc75a797a2b3a2ca67f542622f4cad"
+hash = "f76cf68c47f7154fa03b21130b37ee5db7e19c30aea82616e3f28fd5bcf57586"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -1203,6 +1203,10 @@ hash = "d1c7c6a0491522068e6bfa16367d6ccc19af69f9cea2cd32322bcb4408f62945"
 [[files]]
 file = "global_packs/required_data/Various Tweaks/data/minecraft/loot_table/entities/wither.json"
 hash = "c5b3a9252c9c39607f6be17d101c83d09f3367636371a7993f58f6c41ab8a3ff"
+
+[[files]]
+file = "global_packs/required_data/Various Tweaks/data/quark/recipe/building/crafting/compressed/vanilla_nether_wart_block_4x4.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "global_packs/required_data/Various Tweaks/data/quarkmatrixtable/recipe/convert_to_matrix_table.json"
