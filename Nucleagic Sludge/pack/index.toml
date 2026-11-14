@@ -1113,6 +1113,11 @@ file = "global_packs/required_resources/Resource Changes/pack.mcmeta"
 hash = "a3c46a3b89177103910faa62184041dfd9c21d41815acaa2e6ea3e525a4b483d"
 
 [[files]]
+file = "mods/abyssal-decor.pw.toml"
+hash = "424b5720cad1e520ec046e8f445b827fb6475256b7e7ce31fec3ad5e41c3503b"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
