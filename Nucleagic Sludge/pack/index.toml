@@ -613,10 +613,6 @@ file = "config/create-server.toml"
 hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
 
 [[files]]
-file = "config/createcybernetics-common.toml"
-hash = "494fc72adccfa700be69c6fc2393258fe19ee8d578ab87167d1d773aafe82cad"
-
-[[files]]
 file = "config/creaturefeature-client.toml"
 hash = "5421cdbf9ae4ff6cabb2951a44bac0090929dea62c32dc822d4651960dfa1cad"
 
@@ -1274,11 +1270,6 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
-metafile = true
-
-[[files]]
-file = "mods/createcybernetics.pw.toml"
-hash = "d673a231bd475b9712dc6d2a918384c3f6a727a05226bad2f8edbc3f5a9f37d6"
 metafile = true
 
 [[files]]
