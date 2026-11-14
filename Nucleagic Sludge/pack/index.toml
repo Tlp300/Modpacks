@@ -1133,6 +1133,10 @@ file = "config/create-server.toml"
 hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
 
 [[files]]
+file = "config/createcybernetics-common.toml"
+hash = "561f37bf76d28e3f6e0241acc071d8349ea7708725b5cdcbf60b830a7f80a67f"
+
+[[files]]
 file = "config/creaturefeature-client.toml"
 hash = "5421cdbf9ae4ff6cabb2951a44bac0090929dea62c32dc822d4651960dfa1cad"
 
@@ -1535,6 +1539,34 @@ hash = "9823b40302bd1e168b1ba06e05ffedf212a6bc713ca029b42cec593c4c202d1e"
 [[files]]
 file = "config/weaversparadise-common.toml"
 hash = "089e8ae36b81f4ea1d72a29e599d292b9e9ab1aba1a66a3ec9f5a1e0ec29c027"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "98efe3c6f4b954974a5df3b21a66024f2c33645905362d6634bb1cf2a1bc51ac"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 
 [[files]]
 file = "config/yacl.json5"
