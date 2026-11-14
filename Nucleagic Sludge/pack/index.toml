@@ -1054,7 +1054,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/Pack Filter/pack.mcmeta"
-hash = "5a5630a52d245ed78a96bb00c9d4efd53e01ab81d8afba54ac27567e02a65b67"
+hash = "d9d4e7222bc17cd1b835b1f33fa902c93a8019d558614b3ac51216ab682c3103"
 
 [[files]]
 file = "global_packs/required_resources/Resource Changes/assets/hbm/textures/blocks/ore_beryllium.png"

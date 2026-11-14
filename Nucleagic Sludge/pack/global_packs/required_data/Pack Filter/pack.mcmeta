@@ -8,6 +8,10 @@
       {
         "namespace": "ars_nouveau",
         "path": "recipe/storage_lectern"
+      },
+	  {
+        "namespace": "hbm",
+        "path": "recipe/shredder/446"
       }
     ]
   }
