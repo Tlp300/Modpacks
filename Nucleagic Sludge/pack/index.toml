@@ -614,7 +614,7 @@ hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
 
 [[files]]
 file = "config/createcybernetics-common.toml"
-hash = "561f37bf76d28e3f6e0241acc071d8349ea7708725b5cdcbf60b830a7f80a67f"
+hash = "494fc72adccfa700be69c6fc2393258fe19ee8d578ab87167d1d773aafe82cad"
 
 [[files]]
 file = "config/creaturefeature-client.toml"
