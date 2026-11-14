@@ -933,6 +933,10 @@ file = "config/secondchanceforge-common.toml"
 hash = "f6fdd3fc1f263b959f00f09a67a85b455af5e86f51cb6bce85884c22ecdd9431"
 
 [[files]]
+file = "config/simplebackups-common.toml"
+hash = "de644bb99b99d490c0c8dffde61763f6a4e6157d99defd5bb2d8c08f7dda243b"
+
+[[files]]
 file = "config/simulated-client.toml"
 hash = "aaeeaedb8179a8e2404a468c0b62fee76dd5becb6c87d870f206733e20009991"
 
@@ -1190,6 +1194,11 @@ metafile = true
 [[files]]
 file = "mods/bountiful-fares.pw.toml"
 hash = "ae0ad35dbc08efb3238d612c91a44953263a9cb0d1ddf2819e8d2fcf9b802848"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "007227fe6c0e361594658326b0379bea6f9ffd3a08f2c4923f3660d93b2ea503"
 metafile = true
 
 [[files]]
@@ -1535,6 +1544,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "6aba148930aeb000292b8862990ab4515ea033554b67b44dd3e59f16ef244778"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "7a3f974c507177c9a65fbc1c81c8983d6c643797645ab45e149e7ec932836c20"
 metafile = true
 
 [[files]]
