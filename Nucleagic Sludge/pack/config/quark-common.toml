@@ -768,7 +768,7 @@
 	#(Ashen Trees)
 	"Ancient Wood" = true
 	"Azalea Wood" = true
-	"Big Stone Clusters" = false
+	"Big Stone Clusters" = true
 	#(Trumpet Trees)
 	"Blossom Trees" = true
 	"Cherry Grove Water Petals" = true
