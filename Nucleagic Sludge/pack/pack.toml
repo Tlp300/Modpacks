@@ -1,0 +1,12 @@
+name = "Nucleagic Sludge"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "334f10a69f1a0ceffb8eb66803039cf70590c3ce15b945bd31106147f786daa3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.266"

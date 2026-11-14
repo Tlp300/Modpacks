@@ -1,0 +1,4 @@
+enableCrateSearch = true
+# Default: 6
+# Range: 3 ~ 9
+visibleCrateRows = 6

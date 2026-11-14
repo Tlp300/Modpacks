@@ -1,0 +1,13 @@
+name = "HBM: Continuum x Sable"
+filename = "hbm-continuum-x-sable-1.21.1-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0db78e89a0e97c915044a7631ec34f54bb399879"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9453847
+project-id = 1759773

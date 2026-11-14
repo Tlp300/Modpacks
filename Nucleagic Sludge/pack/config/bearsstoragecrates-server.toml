@@ -1,0 +1,3 @@
+# Default: 27
+# Range: 1 ~ 4096
+crateSlots = 27

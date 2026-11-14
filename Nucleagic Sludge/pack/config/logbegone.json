@@ -1,0 +1,30 @@
+{
+  "logbegone": {
+    "phrases": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+	  "65539",
+	  "65539 ",
+	  "Pre render ",
+	  "Pre render",
+	  "@ Pre render",
+	  "@ Pre render ",
+	  "GL ERROR ",
+	  "OpenGL ",
+	  "OpenGL"
+    ],
+    "regex": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+	  "65539",
+	  "65539 ",
+	  "Pre render ",
+	  "Pre render",
+	  "@ Pre render",
+	  "@ Pre render ",
+	  "GL ERROR ",
+	  "OpenGL ",
+	  "OpenGL"
+    ]
+  }
+}

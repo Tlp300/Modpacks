@@ -1,0 +1,13 @@
+name = "Bear's Storage Crates"
+filename = "bearsstoragecrates-neoforge-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a4f8385ea8d37a1484f2cd664e0a1c978a6e5ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9355322
+project-id = 1650227

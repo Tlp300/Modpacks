@@ -1,0 +1,13 @@
+name = "Analog Audio"
+filename = "Analog-Audio-0.1.5-hotfix.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iMAVG2nH/versions/BshMjyFt/Analog-Audio-0.1.5-hotfix.1.jar"
+hash-format = "sha1"
+hash = "0dbee94c7d315d51a7a2c819c22f1c1235663277"
+
+[update]
+[update.modrinth]
+mod-id = "iMAVG2nH"
+version = "BshMjyFt"

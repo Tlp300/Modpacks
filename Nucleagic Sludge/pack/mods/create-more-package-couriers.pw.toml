@@ -1,0 +1,13 @@
+name = "Create More: Package Couriers"
+filename = "cmpackagecouriers-neoforge-2.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4629f9222bd4222d63388de62a46679896078a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9358758
+project-id = 1319223

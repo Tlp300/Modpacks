@@ -1,0 +1,7 @@
+name = "GolemCore"
+filename = "golemcore-neoforge-1.0.5+1.21.1-build.4.jar"
+
+[download]
+url = "https://github.com/Warfactory-Official/NTM-Continuum/releases/download/v1.0.5-build.4/golemcore-neoforge-1.0.5+1.21.1-build.4.jar"
+hash-format = "sha256"
+hash = "988f55dab864227b9c0387406d38539f591e1026639c291e5ee54c814f86b2ec"

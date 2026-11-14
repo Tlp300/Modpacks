@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": "la filtera",
+    "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "ars_nouveau",
+        "path": "recipe/storage_lectern"
+      }
+    ]
+  }
+}
