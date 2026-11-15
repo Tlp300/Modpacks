@@ -1381,7 +1381,7 @@ metafile = true
 
 [[files]]
 file = "mods/golemcore.pw.toml"
-hash = "b494810fe0153491f9fcc855729a34be5749fddb7d691b17a55310871eb21d37"
+hash = "588a306ea0d3b71cc8a0aadb8330febd770506005cc388d71bfe365eda808488"
 metafile = true
 
 [[files]]
@@ -1481,7 +1481,7 @@ metafile = true
 
 [[files]]
 file = "mods/ntm-continuum.pw.toml"
-hash = "8a7c9d4467d9706501533959a72e4781098846f149996c2de80eaf00cad85103"
+hash = "a8850f7fffc176da75d13a87b1d29f832cd8513d0764dd40c4dac7e16e149762"
 metafile = true
 
 [[files]]
