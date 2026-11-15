@@ -1475,6 +1475,11 @@ hash = "7940792abec3f90ed7864fd1cf7c5313a412586b7e5f9253bbd87c1b4d8a6da2"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-glyphs.pw.toml"
+hash = "b64cdb46d272fea0415478942b9efb97404070efe308866d6111114e413be806"
+metafile = true
+
+[[files]]
 file = "mods/ntm-continuum.pw.toml"
 hash = "8a7c9d4467d9706501533959a72e4781098846f149996c2de80eaf00cad85103"
 metafile = true
