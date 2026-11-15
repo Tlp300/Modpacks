@@ -886,7 +886,7 @@ hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "9c3051d468f1e1b9d869e3dd30ce70352b02ecea22617c8b9d2641fbf133b321"
+hash = "0585f8b786082476247d8bee0185a6277665e4a89476ffe19ac4265811664283"
 
 [[files]]
 file = "config/reliquary-client.toml"
