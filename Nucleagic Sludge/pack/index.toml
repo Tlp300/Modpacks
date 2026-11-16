@@ -1380,11 +1380,6 @@ hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
 metafile = true
 
 [[files]]
-file = "mods/golemcore.pw.toml"
-hash = "588a306ea0d3b71cc8a0aadb8330febd770506005cc388d71bfe365eda808488"
-metafile = true
-
-[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "f8e18076cba5f91b05429d2192deac5fc59708dbe33cf6e2bf613ff090366f95"
 metafile = true
@@ -1477,11 +1472,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-glyphs.pw.toml"
 hash = "b64cdb46d272fea0415478942b9efb97404070efe308866d6111114e413be806"
-metafile = true
-
-[[files]]
-file = "mods/ntm-continuum.pw.toml"
-hash = "efa5834c6e22fbd9f9f4844ec14a1aa1ea26bc2091a1802dc4df7d011019fd5a"
 metafile = true
 
 [[files]]
