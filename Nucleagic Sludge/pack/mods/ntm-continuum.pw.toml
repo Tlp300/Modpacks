@@ -1,7 +1,7 @@
 name = "NTM Continuum"
-filename = "hbm-neoforge-1.0.5+1.21.1-build.6.jar"
+filename = "hbm-neoforge-1.0.6+1.21.1.jar"
 
 [download]
-url = "https://github.com/Tlp300/Modpacks/raw/refs/heads/main/Special-Files/hbm-neoforge-1.0.5+1.21.1-build.6.jar"
+url = "https://github.com/Warfactory-Official/NTM-Continuum/releases/download/v1.0.6/hbm-neoforge-1.0.6+1.21.1.jar"
 hash-format = "sha256"
-hash = "198fc4c1e098457062c45044aa3147d0a91b4341e616cd9fea69368df3b3babe"
+hash = "ccd2a443214ab9dc9e780594507cf53447faa5d4c2ab0f28be4d61d06273d622"

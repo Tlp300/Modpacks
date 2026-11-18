@@ -1,13 +1,7 @@
 name = "GemRender"
-filename = "gemrender-0.1.21.jar"
-side = "both"
+filename = "gemrender-0.1.22+1.21.1-neoforge.jar"
 
 [download]
-hash-format = "sha1"
-hash = "f870d737a8df5544b6dfb100920d0a1d4b430f5f"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 9516548
-project-id = 1735539
+url = "https://github.com/Warfactory-Official/GemRender/releases/download/v0.1.22/gemrender-0.1.22+1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "fa42b3c6197d846dd47fc3076dc33baddff9becd9415c22da67e51037e064b63"

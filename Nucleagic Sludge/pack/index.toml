@@ -1371,7 +1371,7 @@ metafile = true
 
 [[files]]
 file = "mods/gemrender.pw.toml"
-hash = "04167e640fd49a149c023b13a294d6c300bf8d1df9b16e83bcec29a1224daf51"
+hash = "be129eb38ac973d124923ffc65b87545af8a01c35f16b2084fe95a1d538133cd"
 metafile = true
 
 [[files]]
@@ -1381,7 +1381,7 @@ metafile = true
 
 [[files]]
 file = "mods/golemcore.pw.toml"
-hash = "588a306ea0d3b71cc8a0aadb8330febd770506005cc388d71bfe365eda808488"
+hash = "970f70fa9e94690258e7c02726deab14e0e99f29fb94863c3c90df74777a3f55"
 metafile = true
 
 [[files]]
@@ -1481,7 +1481,7 @@ metafile = true
 
 [[files]]
 file = "mods/ntm-continuum.pw.toml"
-hash = "efa5834c6e22fbd9f9f4844ec14a1aa1ea26bc2091a1802dc4df7d011019fd5a"
+hash = "740f092cba6b52da7bc8e41c86571dc2c8f8deb81c560b626754a2d5659dfcbd"
 metafile = true
 
 [[files]]
